@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: c4b4501d91cda284e86218860b9dd940
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3103133894537407864
+    second: Skin 4 (Animation Run)182x250_0
+  - first:
+      213: 2367024057579253579
+    second: Skin 4 (Animation Run)182x250_1
+  - first:
+      213: 2504967050266358905
+    second: Skin 4 (Animation Run)182x250_2
+  - first:
+      213: 4629976123984403646
+    second: Skin 4 (Animation Run)182x250_3
+  - first:
+      213: 212442509222292982
+    second: Skin 4 (Animation Run)182x250_4
+  - first:
+      213: 4487441626073901801
+    second: Skin 4 (Animation Run)182x250_5
+  - first:
+      213: 4084422565668913877
+    second: Skin 4 (Animation Run)182x250_6
+  - first:
+      213: 2770740447001496126
+    second: Skin 4 (Animation Run)182x250_7
+  - first:
+      213: -488204226716113682
+    second: Skin 4 (Animation Run)182x250_8
+  - first:
+      213: -1414574505228245666
+    second: Skin 4 (Animation Run)182x250_9
+  - first:
+      213: 956681416873098472
+    second: Skin 4 (Animation Run)182x250_10
+  - first:
+      213: 5088513899323215108
+    second: Skin 4 (Animation Run)182x250_11
+  - first:
+      213: 1619736687753865327
+    second: Skin 4 (Animation Run)182x250_12
+  - first:
+      213: 8963054757923673901
+    second: Skin 4 (Animation Run)182x250_13
+  - first:
+      213: 4149013215409721149
+    second: Skin 4 (Animation Run)182x250_14
+  - first:
+      213: 3849228962934997300
+    second: Skin 4 (Animation Run)182x250_15
+  - first:
+      213: 4169935607040338470
+    second: Skin 4 (Animation Run)182x250_16
+  - first:
+      213: 7190491374686629934
+    second: Skin 4 (Animation Run)182x250_17
+  - first:
+      213: -6813583488407918054
+    second: Skin 4 (Animation Run)182x250_18
+  - first:
+      213: -7153259983013972345
+    second: Skin 4 (Animation Run)182x250_19
+  - first:
+      213: -1598592880251471583
+    second: Skin 4 (Animation Run)182x250_20
+  - first:
+      213: 8143181071047529744
+    second: Skin 4 (Animation Run)182x250_21
+  - first:
+      213: 8380536552984704281
+    second: Skin 4 (Animation Run)182x250_22
+  - first:
+      213: 1912597688739105351
+    second: Skin 4 (Animation Run)182x250_23
+  - first:
+      213: -8020580767710780586
+    second: Skin 4 (Animation Run)182x250_24
+  - first:
+      213: 7217386438761097591
+    second: Skin 4 (Animation Run)182x250_25
+  - first:
+      213: 5530130861888912986
+    second: Skin 4 (Animation Run)182x250_26
+  - first:
+      213: -5208115153987639274
+    second: Skin 4 (Animation Run)182x250_27
+  - first:
+      213: 5720516708987439472
+    second: Skin 4 (Animation Run)182x250_28
+  - first:
+      213: -5536198954720927919
+    second: Skin 4 (Animation Run)182x250_29
+  - first:
+      213: -122484438241123044
+    second: Skin 4 (Animation Run)182x250_30
+  - first:
+      213: 4580619777889100260
+    second: Skin 4 (Animation Run)182x250_31
+  - first:
+      213: 8627254764308215446
+    second: Skin 4 (Animation Run)182x250_32
+  - first:
+      213: 1643781314960885091
+    second: Skin 4 (Animation Run)182x250_33
+  - first:
+      213: -679514609528458749
+    second: Skin 4 (Animation Run)182x250_34
+  - first:
+      213: -2317144322857422523
+    second: Skin 4 (Animation Run)182x250_35
+  - first:
+      213: 3729223827214563206
+    second: Skin 4 (Animation Run)182x250_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8829f9df9247fe4d0800000000000000
+      internalID: -3103133894537407864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1500
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fa0ded6db59d020800000000000000
+      internalID: 2367024057579253579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1500
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9743f25a24e63c220800000000000000
+      internalID: 2504967050266358905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_3
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1500
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc51ac01caf04040800000000000000
+      internalID: 4629976123984403646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1500
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd2369265fb2f200800000000000000
+      internalID: 212442509222292982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_5
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1500
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaaf682268964e30800000000000000
+      internalID: 4487441626073901801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2094beea8cea830800000000000000
+      internalID: 4084422565668913877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1250
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ac45ca1c5a37620800000000000000
+      internalID: 2770740447001496126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1250
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4edb8a7dc8939f0800000000000000
+      internalID: -488204226716113682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_9
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1250
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55eb837bfb6e5ce0800000000000000
+      internalID: -1414574505228245666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_10
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1250
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec30ff0ea0d64d00800000000000000
+      internalID: 956681416873098472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_11
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1250
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d4ccb6e680e9640800000000000000
+      internalID: 5088513899323215108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68ac3f8fe57a7610800000000000000
+      internalID: 1619736687753865327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1000
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d275a6460da236c70800000000000000
+      internalID: 8963054757923673901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1000
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fc5e87981449930800000000000000
+      internalID: 4149013215409721149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1000
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431c2e209553b6530800000000000000
+      internalID: 3849228962934997300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_16
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1000
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a64e167569ed930800000000000000
+      internalID: 4169935607040338470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_17
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1000
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20f4b4fec1c9c360800000000000000
+      internalID: 7190491374686629934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aaafdcae94171a0800000000000000
+      internalID: -6813583488407918054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 750
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7867f6ee1f38abc90800000000000000
+      internalID: -7153259983013972345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_20
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 750
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1297420ce38a0d9e0800000000000000
+      internalID: -1598592880251471583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_21
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 750
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01519792a04620170800000000000000
+      internalID: 8143181071047529744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_22
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 750
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91574dbc795ad4470800000000000000
+      internalID: 8380536552984704281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_23
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 750
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a078be679ea8a10800000000000000
+      internalID: 1912597688739105351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653e440694c21b090800000000000000
+      internalID: -8020580767710780586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 500
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779a3190abe492460800000000000000
+      internalID: 7217386438761097591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_26
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 500
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e305018b8febc40800000000000000
+      internalID: 5530130861888912986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_27
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 500
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618ec397cde09b7b0800000000000000
+      internalID: -5208115153987639274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_28
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 500
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07902e263ab536f40800000000000000
+      internalID: 5720516708987439472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_29
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 500
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f58f9f1687b23b0800000000000000
+      internalID: -5536198954720927919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15ef186d09dc4ef0800000000000000
+      internalID: -122484438241123044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_31
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 250
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e165383b61a19f30800000000000000
+      internalID: 4580619777889100260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_32
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 250
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696336dbf7a2ab770800000000000000
+      internalID: 8627254764308215446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_33
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 250
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3650ba69562efc610800000000000000
+      internalID: 1643781314960885091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_34
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 250
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3023e571011e196f0800000000000000
+      internalID: -679514609528458749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_35
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 250
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54135ced389d7dfd0800000000000000
+      internalID: -2317144322857422523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 4 (Animation Run)182x250_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 182
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687fb05005dd0c330800000000000000
+      internalID: 3729223827214563206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

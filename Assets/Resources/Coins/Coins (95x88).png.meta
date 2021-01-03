@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: 9dc52d8293640c040bdfc61e94a3020d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2551529026122817529
+    second: Coins (95x88)_0
+  - first:
+      213: 7752212876017998058
+    second: Coins (95x88)_1
+  - first:
+      213: 7292141284229040432
+    second: Coins (95x88)_2
+  - first:
+      213: -1741783780214880331
+    second: Coins (95x88)_3
+  - first:
+      213: -6433003902383390926
+    second: Coins (95x88)_4
+  - first:
+      213: -1265552944369990949
+    second: Coins (95x88)_5
+  - first:
+      213: 4624741864339874699
+    second: Coins (95x88)_6
+  - first:
+      213: 1986002982670094083
+    second: Coins (95x88)_7
+  - first:
+      213: 5169975719236273377
+    second: Coins (95x88)_8
+  - first:
+      213: 5296997762342445393
+    second: Coins (95x88)_9
+  - first:
+      213: -3292354027381911235
+    second: Coins (95x88)_10
+  - first:
+      213: -4581731628092641913
+    second: Coins (95x88)_11
+  - first:
+      213: -3127960258953335212
+    second: Coins (95x88)_12
+  - first:
+      213: -1489093176968962408
+    second: Coins (95x88)_13
+  - first:
+      213: 189957009688846765
+    second: Coins (95x88)_14
+  - first:
+      213: 7561968715379801409
+    second: Coins (95x88)_15
+  - first:
+      213: -7772391419455578266
+    second: Coins (95x88)_16
+  - first:
+      213: 1431219507827872180
+    second: Coins (95x88)_17
+  - first:
+      213: 8663236862595263322
+    second: Coins (95x88)_18
+  - first:
+      213: -2268723203972361554
+    second: Coins (95x88)_19
+  - first:
+      213: 3286900963443275373
+    second: Coins (95x88)_20
+  - first:
+      213: 6378467560021951669
+    second: Coins (95x88)_21
+  - first:
+      213: 7617104527939340668
+    second: Coins (95x88)_22
+  - first:
+      213: 7422285058270421515
+    second: Coins (95x88)_23
+  - first:
+      213: 4288388485642847238
+    second: Coins (95x88)_24
+  - first:
+      213: 7602218889556757040
+    second: Coins (95x88)_25
+  - first:
+      213: 5218520494107949118
+    second: Coins (95x88)_26
+  - first:
+      213: -969193840617762912
+    second: Coins (95x88)_27
+  - first:
+      213: -3033418237751931579
+    second: Coins (95x88)_28
+  - first:
+      213: -5613502516554506671
+    second: Coins (95x88)_29
+  - first:
+      213: 2484160743877342848
+    second: Coins (95x88)_30
+  - first:
+      213: -7469744828339138803
+    second: Coins (95x88)_31
+  - first:
+      213: -3357574510782600013
+    second: Coins (95x88)_32
+  - first:
+      213: -4480614012036257237
+    second: Coins (95x88)_33
+  - first:
+      213: -7292853584486027864
+    second: Coins (95x88)_34
+  - first:
+      213: -2152797599753511585
+    second: Coins (95x88)_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coins (95x88)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 440
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700e9db8ed5279cd0800000000000000
+      internalID: -2551529026122817529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 440
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8134aa984659b60800000000000000
+      internalID: 7752212876017998058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 440
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039ce62dcd3e23560800000000000000
+      internalID: 7292141284229040432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 440
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b741c851e0f3d7e0800000000000000
+      internalID: -1741783780214880331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_4
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 440
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f7cb7c80169b6a0800000000000000
+      internalID: -6433003902383390926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 440
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd280626d4adf6ee0800000000000000
+      internalID: -1265552944369990949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b832bd109326e2040800000000000000
+      internalID: 4624741864339874699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 352
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fcae0c033bf8b10800000000000000
+      internalID: 1986002982670094083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4097266817fb740800000000000000
+      internalID: 5169975719236273377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 352
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151e5707667b28940800000000000000
+      internalID: 5296997762342445393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 354
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31131ba4753f42d0800000000000000
+      internalID: -3292354027381911235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_11
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 354
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dad5bfb5b6a60c0800000000000000
+      internalID: -4581731628092641913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 266
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e2c8597b04794d0800000000000000
+      internalID: -3127960258953335212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 264
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e9e4525ada55be0800000000000000
+      internalID: -1489093176968962408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 264
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da16915d4ecd2a200800000000000000
+      internalID: 189957009688846765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 264
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d74da4b7281f860800000000000000
+      internalID: 7561968715379801409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 265
+        width: 36
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f5e041f2be22490800000000000000
+      internalID: -7772391419455578266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_17
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 265
+        width: 36
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b190b73f86bcd310800000000000000
+      internalID: 1431219507827872180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 177
+        width: 36
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b6f08d6000a3870800000000000000
+      internalID: 8663236862595263322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 27
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea29a852440e380e0800000000000000
+      internalID: -2268723203972361554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 176
+        width: 27
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66fce1f20b6d9d20800000000000000
+      internalID: 3286900963443275373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 176
+        width: 27
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b40676837ed48850800000000000000
+      internalID: 6378467560021951669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 177
+        width: 35
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7908d4063465b960800000000000000
+      internalID: 7617104527939340668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 177
+        width: 35
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02e5ef7fe0410760800000000000000
+      internalID: 7422285058270421515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 89
+        width: 35
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6040e995b9a638b30800000000000000
+      internalID: 4288388485642847238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 91
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a8bc04dc1808960800000000000000
+      internalID: 7602218889556757040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 91
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3876609db8eb6840800000000000000
+      internalID: 5218520494107949118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 91
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af4b73465bbc82f0800000000000000
+      internalID: -969193840617762912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 91
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dca9b3f2227e5d0800000000000000
+      internalID: -3033418237751931579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_29
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 89
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ed10be335d812b0800000000000000
+      internalID: -5613502516554506671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08677cfe803897220800000000000000
+      internalID: 2484160743877342848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fc800b7a2265890800000000000000
+      internalID: -7469744828339138803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_32
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bca5e985cf7761d0800000000000000
+      internalID: -3357574510782600013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_33
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ae0fc9b49a1d1c0800000000000000
+      internalID: -4480614012036257237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ada6c9dd449aca90800000000000000
+      internalID: -7292853584486027864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins (95x88)_35
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dd0613df9bf12e0800000000000000
+      internalID: -2152797599753511585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

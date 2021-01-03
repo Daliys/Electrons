@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: d9aa448a5f268db4f9337df10abb4299
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 579995501702509677
+    second: Buff (shield) 171x173_0
+  - first:
+      213: 242803702573535245
+    second: Buff (shield) 171x173_1
+  - first:
+      213: -1143615110038772153
+    second: Buff (shield) 171x173_2
+  - first:
+      213: 2294468515444466206
+    second: Buff (shield) 171x173_3
+  - first:
+      213: -8275358445009351845
+    second: Buff (shield) 171x173_4
+  - first:
+      213: -8685717666407953396
+    second: Buff (shield) 171x173_5
+  - first:
+      213: -681420949626703427
+    second: Buff (shield) 171x173_6
+  - first:
+      213: 585160849597940274
+    second: Buff (shield) 171x173_7
+  - first:
+      213: -1067173881832788829
+    second: Buff (shield) 171x173_8
+  - first:
+      213: 1986173974111777151
+    second: Buff (shield) 171x173_9
+  - first:
+      213: -5920783729278168799
+    second: Buff (shield) 171x173_10
+  - first:
+      213: -7741557148813323374
+    second: Buff (shield) 171x173_11
+  - first:
+      213: -7556438136130628194
+    second: Buff (shield) 171x173_12
+  - first:
+      213: 6649891929382269900
+    second: Buff (shield) 171x173_13
+  - first:
+      213: 4150683156371807112
+    second: Buff (shield) 171x173_14
+  - first:
+      213: 1288753704442186860
+    second: Buff (shield) 171x173_15
+  - first:
+      213: 2613847844655422180
+    second: Buff (shield) 171x173_16
+  - first:
+      213: -2840823294335718956
+    second: Buff (shield) 171x173_17
+  - first:
+      213: -7736618350008752243
+    second: Buff (shield) 171x173_18
+  - first:
+      213: 614232594952831628
+    second: Buff (shield) 171x173_19
+  - first:
+      213: 6119472642655551560
+    second: Buff (shield) 171x173_20
+  - first:
+      213: -4817599880329185154
+    second: Buff (shield) 171x173_21
+  - first:
+      213: 6099669885344429684
+    second: Buff (shield) 171x173_22
+  - first:
+      213: 7809530258496547896
+    second: Buff (shield) 171x173_23
+  - first:
+      213: 60740827529973430
+    second: Buff (shield) 171x173_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d647d4af5de8c0800800000000000000
+      internalID: 579995501702509677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 692
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d009b0a5eac9e5300800000000000000
+      internalID: 242803702573535245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 692
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746ae56dd101120f0800000000000000
+      internalID: -1143615110038772153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 692
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12a26b45f697df10800000000000000
+      internalID: 2294468515444466206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_4
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 692
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b4038c655082d80800000000000000
+      internalID: -8275358445009351845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c4b622dc1267780800000000000000
+      internalID: -8685717666407953396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 519
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1bdf2b14b1b86f0800000000000000
+      internalID: -681420949626703427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 519
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23240c041b8ee1800800000000000000
+      internalID: 585160849597940274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_8
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 519
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac28c33203a031f0800000000000000
+      internalID: -1067173881832788829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_9
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 519
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71fe0dc4be409b10800000000000000
+      internalID: 1986173974111777151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1215670619625dda0800000000000000
+      internalID: -5920783729278168799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 346
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29398982ac6709490800000000000000
+      internalID: -7741557148813323374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 346
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9518b80d83222790800000000000000
+      internalID: -7556438136130628194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_13
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 346
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc331952a79294c50800000000000000
+      internalID: 6649891929382269900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 346
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b1db6e6503a9930800000000000000
+      internalID: 4150683156371807112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cce348aa292e110800000000000000
+      internalID: 1288753704442186860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 173
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea5b9514c0464420800000000000000
+      internalID: 2613847844655422180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 173
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9e67fd34e5398d0800000000000000
+      internalID: -2840823294335718956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_18
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 173
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87a5fcd99202a490800000000000000
+      internalID: -7736618350008752243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 173
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8241af6a41368800800000000000000
+      internalID: 614232594952831628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840843632fbbce450800000000000000
+      internalID: 6119472642655551560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78b30ffe62742db0800000000000000
+      internalID: -4817599880329185154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4763a1b717166a450800000000000000
+      internalID: 6099669885344429684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_23
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ce958b466016c60800000000000000
+      internalID: 7809530258496547896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (shield) 171x173_24
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be8948f57bc7d000800000000000000
+      internalID: 60740827529973430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

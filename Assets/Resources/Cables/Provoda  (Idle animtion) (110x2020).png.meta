@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 31b78aecedbb6c741b07833375b493a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7975711230040388660
+    second: Provoda  (Idle animtion) (110x2020)_0
+  - first:
+      213: -1708148624931594548
+    second: Provoda  (Idle animtion) (110x2020)_1
+  - first:
+      213: 2609389851221929063
+    second: Provoda  (Idle animtion) (110x2020)_2
+  - first:
+      213: 2896659133058811770
+    second: Provoda  (Idle animtion) (110x2020)_3
+  - first:
+      213: -2279319926202854221
+    second: Provoda  (Idle animtion) (110x2020)_4
+  - first:
+      213: -2793904073079360572
+    second: Provoda  (Idle animtion) (110x2020)_5
+  - first:
+      213: -5681731486755001882
+    second: Provoda  (Idle animtion) (110x2020)_6
+  - first:
+      213: -4046827326283423725
+    second: Provoda  (Idle animtion) (110x2020)_7
+  - first:
+      213: -5131742242607617154
+    second: Provoda  (Idle animtion) (110x2020)_8
+  - first:
+      213: -5455301705476096465
+    second: Provoda  (Idle animtion) (110x2020)_9
+  - first:
+      213: 7169209377564070852
+    second: Provoda  (Idle animtion) (110x2020)_10
+  - first:
+      213: -2493705057781219751
+    second: Provoda  (Idle animtion) (110x2020)_11
+  - first:
+      213: 36255701455058173
+    second: Provoda  (Idle animtion) (110x2020)_12
+  - first:
+      213: 5109239652744547032
+    second: Provoda  (Idle animtion) (110x2020)_13
+  - first:
+      213: 20746532034114677
+    second: Provoda  (Idle animtion) (110x2020)_14
+  - first:
+      213: 8196576694435274732
+    second: Provoda  (Idle animtion) (110x2020)_15
+  - first:
+      213: -815133558887007313
+    second: Provoda  (Idle animtion) (110x2020)_16
+  - first:
+      213: -6700683201035430611
+    second: Provoda  (Idle animtion) (110x2020)_17
+  - first:
+      213: -6239941170722710598
+    second: Provoda  (Idle animtion) (110x2020)_18
+  - first:
+      213: -9076399844508215050
+    second: Provoda  (Idle animtion) (110x2020)_19
+  - first:
+      213: 2548603212134859525
+    second: Provoda  (Idle animtion) (110x2020)_20
+  - first:
+      213: -6568248997790193468
+    second: Provoda  (Idle animtion) (110x2020)_21
+  - first:
+      213: -1408689642817258285
+    second: Provoda  (Idle animtion) (110x2020)_22
+  - first:
+      213: 8342470181298849556
+    second: Provoda  (Idle animtion) (110x2020)_23
+  - first:
+      213: -5633152634386475488
+    second: Provoda  (Idle animtion) (110x2020)_24
+  - first:
+      213: -53330091511672425
+    second: Provoda  (Idle animtion) (110x2020)_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 34
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb4956b4e4905190800000000000000
+      internalID: -7975711230040388660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 36
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce516330ef6b48e0800000000000000
+      internalID: -1708148624931594548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 40
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ca79a9e3a663420800000000000000
+      internalID: 2609389851221929063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 43
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a778c556220033820800000000000000
+      internalID: 2896659133058811770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_4
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 46
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4953d7a9a3e50e0800000000000000
+      internalID: -2279319926202854221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_5
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 48
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3769b5c0f0a39d0800000000000000
+      internalID: -2793904073079360572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_6
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 0
+        width: 46
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9e0ded05f6621b0800000000000000
+      internalID: -5681731486755001882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_7
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 46
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310688ddcf7c6d7c0800000000000000
+      internalID: -4046827326283423725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_8
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 43
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ba1869e9368c8b0800000000000000
+      internalID: -5131742242607617154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_9
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 40
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eb3869000ea44b0800000000000000
+      internalID: -5455301705476096465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_10
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 0
+        width: 39
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c31b1ed1f52e7360800000000000000
+      internalID: 7169209377564070852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_11
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 37
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95efa505674946dd0800000000000000
+      internalID: -2493705057781219751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_12
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 0
+        width: 35
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4bf4e4e5ec08000800000000000000
+      internalID: 36255701455058173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_13
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 0
+        width: 35
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dacd2ee46aa7e640800000000000000
+      internalID: 5109239652744547032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_14
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 0
+        width: 36
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574f6386cd4b94000800000000000000
+      internalID: 20746532034114677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_15
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 0
+        width: 38
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef5f06831710c170800000000000000
+      internalID: 8196576694435274732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_16
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 0
+        width: 42
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab3a02d85010b4f0800000000000000
+      internalID: -815133558887007313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_17
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 0
+        width: 42
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d251bd161246203a0800000000000000
+      internalID: -6700683201035430611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_18
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 0
+        width: 45
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbdcbbd0964769a0800000000000000
+      internalID: -6239941170722710598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_19
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 0
+        width: 46
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f85da42e662a0280800000000000000
+      internalID: -9076399844508215050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_20
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 0
+        width: 48
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503c7bc4e157e5320800000000000000
+      internalID: 2548603212134859525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_21
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 0
+        width: 46
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8666a2654e8d4a0800000000000000
+      internalID: -6568248997790193468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_22
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 0
+        width: 43
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcfa11cb34537ce0800000000000000
+      internalID: -1408689642817258285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_23
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 0
+        width: 40
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4174b99fd6866c370800000000000000
+      internalID: 8342470181298849556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_24
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 0
+        width: 36
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02696d5568503d1b0800000000000000
+      internalID: -5633152634386475488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (Idle animtion) (110x2020)_25
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 0
+        width: 34
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7919b977098824ff0800000000000000
+      internalID: -53330091511672425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

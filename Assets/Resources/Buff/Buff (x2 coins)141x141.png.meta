@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 022d5a99615ed1349b23ee852e6f2c9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7583704557839177897
+    second: Buff (x2 coins)141x141_0
+  - first:
+      213: 3157324616113119119
+    second: Buff (x2 coins)141x141_1
+  - first:
+      213: -362390850244096840
+    second: Buff (x2 coins)141x141_2
+  - first:
+      213: -233099781476633199
+    second: Buff (x2 coins)141x141_3
+  - first:
+      213: 1732309973066859867
+    second: Buff (x2 coins)141x141_4
+  - first:
+      213: -1473034990642725095
+    second: Buff (x2 coins)141x141_5
+  - first:
+      213: -1069850978039018298
+    second: Buff (x2 coins)141x141_6
+  - first:
+      213: 4073137033167180370
+    second: Buff (x2 coins)141x141_7
+  - first:
+      213: -2995218543149026396
+    second: Buff (x2 coins)141x141_8
+  - first:
+      213: -5139751413401412921
+    second: Buff (x2 coins)141x141_9
+  - first:
+      213: -2496278736144610583
+    second: Buff (x2 coins)141x141_10
+  - first:
+      213: -6655848450802629338
+    second: Buff (x2 coins)141x141_11
+  - first:
+      213: -22208915435155045
+    second: Buff (x2 coins)141x141_12
+  - first:
+      213: -4271537608934904199
+    second: Buff (x2 coins)141x141_13
+  - first:
+      213: 2547621254070110446
+    second: Buff (x2 coins)141x141_14
+  - first:
+      213: -6861812871098919761
+    second: Buff (x2 coins)141x141_15
+  - first:
+      213: 4053829585420866942
+    second: Buff (x2 coins)141x141_16
+  - first:
+      213: -1259775535016654163
+    second: Buff (x2 coins)141x141_17
+  - first:
+      213: 9203919676149644966
+    second: Buff (x2 coins)141x141_18
+  - first:
+      213: 5259174288788280634
+    second: Buff (x2 coins)141x141_19
+  - first:
+      213: -7753229724519203127
+    second: Buff (x2 coins)141x141_20
+  - first:
+      213: 7538163312136176544
+    second: Buff (x2 coins)141x141_21
+  - first:
+      213: -8864812367507166426
+    second: Buff (x2 coins)141x141_22
+  - first:
+      213: 61183296921327270
+    second: Buff (x2 coins)141x141_23
+  - first:
+      213: 5324268440478686229
+    second: Buff (x2 coins)141x141_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8d38b7d1bbe3960800000000000000
+      internalID: 7583704557839177897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 564
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fd408920211db20800000000000000
+      internalID: 3157324616113119119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 564
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc4955117788faf0800000000000000
+      internalID: -362390850244096840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 564
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1953dd7dbfcd3ccf0800000000000000
+      internalID: -233099781476633199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 564
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5544890eb66a0810800000000000000
+      internalID: 1732309973066859867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ff4010b7abe8be0800000000000000
+      internalID: -1473034990642725095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 423
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc416b24302721f0800000000000000
+      internalID: -1069850978039018298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 423
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2521b6f1d80b68830800000000000000
+      internalID: 4073137033167180370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_8
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 423
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a370f6ba98de66d0800000000000000
+      internalID: -2995218543149026396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_9
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 423
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca9562325feba8b0800000000000000
+      internalID: -5139751413401412921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea4dbf17bf6b5dd0800000000000000
+      internalID: -2496278736144610583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 282
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6254313291da1a3a0800000000000000
+      internalID: -6655848450802629338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 282
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9114aceb1911bff0800000000000000
+      internalID: -22208915435155045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 282
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ea6be1d2378b4c0800000000000000
+      internalID: -4271537608934904199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_14
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 282
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8851f5808fa5320800000000000000
+      internalID: 2547621254070110446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa412f69c81f5c0a0800000000000000
+      internalID: -6861812871098919761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 141
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75daf2a788124830800000000000000
+      internalID: 4053829585420866942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 141
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaca9253d0648ee0800000000000000
+      internalID: -1259775535016654163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_18
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 141
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeb0265e24eabf70800000000000000
+      internalID: 9203919676149644966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_19
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 141
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35d71fb6275cf840800000000000000
+      internalID: 5259174288788280634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce7808d4aef66490800000000000000
+      internalID: -7753229724519203127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a342cee79fec9860800000000000000
+      internalID: 7538163312136176544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bee3a9e1cd9f480800000000000000
+      internalID: -8864812367507166426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_23
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6de2762ed59d000800000000000000
+      internalID: 61183296921327270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (x2 coins)141x141_24
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c1e8bffe993e940800000000000000
+      internalID: 5324268440478686229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

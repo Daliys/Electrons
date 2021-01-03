@@ -1,0 +1,1459 @@
+fileFormatVersion: 2
+guid: 9db3d4b5c7c825f44b88a49bf7ff004b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3126780011368466704
+    second: provod__74x1280_0
+  - first:
+      213: 8949341331550974176
+    second: provod__74x1280_1
+  - first:
+      213: 6221006940955260983
+    second: provod__74x1280_2
+  - first:
+      213: 7453823318231633416
+    second: provod__74x1280_3
+  - first:
+      213: -2372715910423630071
+    second: provod__74x1280_4
+  - first:
+      213: -4967056571198173894
+    second: provod__74x1280_5
+  - first:
+      213: 64310368100125086
+    second: provod__74x1280_6
+  - first:
+      213: 6564878873241567289
+    second: provod__74x1280_7
+  - first:
+      213: 8211122190003610987
+    second: provod__74x1280_8
+  - first:
+      213: -6309830634622223749
+    second: provod__74x1280_9
+  - first:
+      213: 7817201676780336107
+    second: provod__74x1280_10
+  - first:
+      213: 1612696536766975013
+    second: provod__74x1280_11
+  - first:
+      213: -4440210409440130584
+    second: provod__74x1280_12
+  - first:
+      213: -1519103572920967371
+    second: provod__74x1280_13
+  - first:
+      213: -6713659564288502492
+    second: provod__74x1280_14
+  - first:
+      213: -2966807847607379658
+    second: provod__74x1280_15
+  - first:
+      213: -7694653531678557077
+    second: provod__74x1280_16
+  - first:
+      213: -4639702910203251562
+    second: provod__74x1280_17
+  - first:
+      213: 4705784594496896521
+    second: provod__74x1280_18
+  - first:
+      213: -7230466658107593289
+    second: provod__74x1280_19
+  - first:
+      213: -1646586870946296447
+    second: provod__74x1280_20
+  - first:
+      213: -222221242819688787
+    second: provod__74x1280_21
+  - first:
+      213: -2917145129509340694
+    second: provod__74x1280_22
+  - first:
+      213: -6209362649244471631
+    second: provod__74x1280_23
+  - first:
+      213: -3805440508793999247
+    second: provod__74x1280_24
+  - first:
+      213: 3390724276104421049
+    second: provod__74x1280_25
+  - first:
+      213: 8372806180366478818
+    second: provod__74x1280_26
+  - first:
+      213: 2342941465434480663
+    second: provod__74x1280_27
+  - first:
+      213: -6296699343328899095
+    second: provod__74x1280_28
+  - first:
+      213: -1039689301150694078
+    second: provod__74x1280_29
+  - first:
+      213: -1383465807337311222
+    second: provod__74x1280_30
+  - first:
+      213: -1839855960239610758
+    second: provod__74x1280_31
+  - first:
+      213: 6794176790587116499
+    second: provod__74x1280_32
+  - first:
+      213: 4829593199049062457
+    second: provod__74x1280_33
+  - first:
+      213: 1412859704098481907
+    second: provod__74x1280_34
+  - first:
+      213: 1827797316011600916
+    second: provod__74x1280_35
+  - first:
+      213: 1672833889848745595
+    second: provod__74x1280_36
+  - first:
+      213: -2064185406945115239
+    second: provod__74x1280_37
+  - first:
+      213: 5875622210110533355
+    second: provod__74x1280_38
+  - first:
+      213: 7337619928414545976
+    second: provod__74x1280_39
+  - first:
+      213: -5726686566238027697
+    second: provod__74x1280_40
+  - first:
+      213: 5712146433027617938
+    second: provod__74x1280_41
+  - first:
+      213: 8850716514240150861
+    second: provod__74x1280_42
+  - first:
+      213: 5324997077465481675
+    second: provod__74x1280_43
+  - first:
+      213: -3620474016051890629
+    second: provod__74x1280_44
+  - first:
+      213: 4019167582872635586
+    second: provod__74x1280_45
+  - first:
+      213: 897316939345382281
+    second: provod__74x1280_46
+  - first:
+      213: 8408678605753527374
+    second: provod__74x1280_47
+  - first:
+      213: 5755146521826094563
+    second: provod__74x1280_48
+  - first:
+      213: 1328023234783943021
+    second: provod__74x1280_49
+  - first:
+      213: -2135722792414797431
+    second: provod__74x1280_50
+  - first:
+      213: 7489717011814679551
+    second: provod__74x1280_51
+  - first:
+      213: -7440370028036570276
+    second: provod__74x1280_52
+  - first:
+      213: 2789868337862270268
+    second: provod__74x1280_53
+  - first:
+      213: 5951656442709219987
+    second: provod__74x1280_54
+  - first:
+      213: 1547789183619780658
+    second: provod__74x1280_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: provod__74x1280_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6379365227b94d0800000000000000
+      internalID: -3126780011368466704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e031d08682723c70800000000000000
+      internalID: 8949341331550974176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738b0ec3ad4755650800000000000000
+      internalID: 6221006940955260983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e48bdd0dc417760800000000000000
+      internalID: 7453823318231633416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f284e537b621fd0800000000000000
+      internalID: -2372715910423630071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d86767d58711bb0800000000000000
+      internalID: -4967056571198173894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e998bf560f974e000800000000000000
+      internalID: 64310368100125086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930c7019d822b1b50800000000000000
+      internalID: 6564878873241567289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b652e7e9024c3f170800000000000000
+      internalID: 8211122190003610987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7af67ef77afe68a0800000000000000
+      internalID: -6309830634622223749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_10
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3741af1874c7c60800000000000000
+      internalID: 7817201676780336107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_11
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c8f7ca4f2716610800000000000000
+      internalID: 1612696536766975013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_12
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9445968243162c0800000000000000
+      internalID: -4440210409440130584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_13
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fd407595f0beae0800000000000000
+      internalID: -1519103572920967371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_14
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4251eaf523a44d2a0800000000000000
+      internalID: -6713659564288502492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_15
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639558e3bf7c3d6d0800000000000000
+      internalID: -2966807847607379658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_16
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c38968169173590800000000000000
+      internalID: -7694653531678557077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_17
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6943dfd09c67c9fb0800000000000000
+      internalID: -4639702910203251562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_18
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e3e78082e4e4140800000000000000
+      internalID: 4705784594496896521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_19
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bde03312e838ab90800000000000000
+      internalID: -7230466658107593289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_20
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d8c6107f52629e0800000000000000
+      internalID: -1646586870946296447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_21
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6cf2005f28aecf0800000000000000
+      internalID: -222221242819688787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_22
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9b55dd5f73487d0800000000000000
+      internalID: -2917145129509340694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_23
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be6432b199e3d9a0800000000000000
+      internalID: -6209362649244471631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_24
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170b373f40c503bc0800000000000000
+      internalID: -3805440508793999247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_25
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be5f78a3c54e0f20800000000000000
+      internalID: 3390724276104421049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_26
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed60f92cde223470800000000000000
+      internalID: 8372806180366478818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_27
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71061c079dcc38020800000000000000
+      internalID: 2342941465434480663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_28
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef027ffe41ad98a0800000000000000
+      internalID: -6296699343328899095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_29
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2458320d6184291f0800000000000000
+      internalID: -1039689301150694078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_30
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04b2ca9d21fccce0800000000000000
+      internalID: -1383465807337311222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_31
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74680c80c48776e0800000000000000
+      internalID: -1839855960239610758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_32
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db06204bc3c94e50800000000000000
+      internalID: 6794176790587116499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_33
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93836fe1d69260340800000000000000
+      internalID: 4829593199049062457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_34
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6e04c4a6c7b9310800000000000000
+      internalID: 1412859704098481907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_35
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ca84e89f3ad5910800000000000000
+      internalID: 1827797316011600916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_36
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e5bac4f89173710800000000000000
+      internalID: 1672833889848745595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_37
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993cd741f4a8a53e0800000000000000
+      internalID: -2064185406945115239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_38
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beea80c05476a8150800000000000000
+      internalID: 5875622210110533355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_39
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838e9f1d27674d560800000000000000
+      internalID: 7337619928414545976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_40
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f408167c8e8b680b0800000000000000
+      internalID: -5726686566238027697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_41
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29430a5aaee954f40800000000000000
+      internalID: 5712146433027617938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_42
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4db7fec6cf04da70800000000000000
+      internalID: 8850716514240150861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_43
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1c25001a036e940800000000000000
+      internalID: 5324997077465481675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_44
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36f1b2801e71cdc0800000000000000
+      internalID: -3620474016051890629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_45
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c883e54f93f6c730800000000000000
+      internalID: 4019167582872635586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_46
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b4f9c8009e37c00800000000000000
+      internalID: 897316939345382281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_47
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cad5e04a0a1b470800000000000000
+      internalID: 8408678605753527374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_48
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ede4cff4436edf40800000000000000
+      internalID: 5755146521826094563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_49
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6913ca88161e6210800000000000000
+      internalID: 1328023234783943021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_50
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98129639f636c52e0800000000000000
+      internalID: -2135722792414797431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_51
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff30a65a0f1d0f760800000000000000
+      internalID: 7489717011814679551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_52
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53ca6951ee7eb890800000000000000
+      internalID: -7440370028036570276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_53
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dd360d87a97b620800000000000000
+      internalID: 2789868337862270268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_54
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a19dc5008889250800000000000000
+      internalID: 5951656442709219987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: provod__74x1280_55
+      rect:
+        serializedVersion: 2
+        x: 4070
+        y: 0
+        width: 74
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23059dcdf0ada7510800000000000000
+      internalID: 1547789183619780658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

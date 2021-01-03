@@ -1,0 +1,859 @@
+fileFormatVersion: 2
+guid: c44c708818aa92e4296b7ea1d1d92ac5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8898088483510748848
+    second: Electron (anim run) (124x259)_0
+  - first:
+      213: -3950130567415079988
+    second: Electron (anim run) (124x259)_1
+  - first:
+      213: -2468949741447505781
+    second: Electron (anim run) (124x259)_2
+  - first:
+      213: -635956098398912245
+    second: Electron (anim run) (124x259)_3
+  - first:
+      213: -8077986230133820766
+    second: Electron (anim run) (124x259)_4
+  - first:
+      213: 1211061529063263280
+    second: Electron (anim run) (124x259)_5
+  - first:
+      213: -436772101770341104
+    second: Electron (anim run) (124x259)_6
+  - first:
+      213: 1204329857973123901
+    second: Electron (anim run) (124x259)_7
+  - first:
+      213: -4147342314443768072
+    second: Electron (anim run) (124x259)_8
+  - first:
+      213: -871061057717843392
+    second: Electron (anim run) (124x259)_9
+  - first:
+      213: 8457059840521170116
+    second: Electron (anim run) (124x259)_10
+  - first:
+      213: -1358093566418448267
+    second: Electron (anim run) (124x259)_11
+  - first:
+      213: 7100645269571697168
+    second: Electron (anim run) (124x259)_12
+  - first:
+      213: 3337750498727963900
+    second: Electron (anim run) (124x259)_13
+  - first:
+      213: 1202963068374584598
+    second: Electron (anim run) (124x259)_14
+  - first:
+      213: 6453738330536297264
+    second: Electron (anim run) (124x259)_15
+  - first:
+      213: -8327210557189619793
+    second: Electron (anim run) (124x259)_16
+  - first:
+      213: 5496271466908269790
+    second: Electron (anim run) (124x259)_17
+  - first:
+      213: 305325953538639007
+    second: Electron (anim run) (124x259)_18
+  - first:
+      213: 521661576348967629
+    second: Electron (anim run) (124x259)_19
+  - first:
+      213: -8830858865997734736
+    second: Electron (anim run) (124x259)_20
+  - first:
+      213: 2487240222819543009
+    second: Electron (anim run) (124x259)_21
+  - first:
+      213: 2251143714912130837
+    second: Electron (anim run) (124x259)_22
+  - first:
+      213: -9075159241821618846
+    second: Electron (anim run) (124x259)_23
+  - first:
+      213: 1044458657818087406
+    second: Electron (anim run) (124x259)_24
+  - first:
+      213: 4521372800921288455
+    second: Electron (anim run) (124x259)_25
+  - first:
+      213: 5063124155544775104
+    second: Electron (anim run) (124x259)_26
+  - first:
+      213: -7100271393179822408
+    second: Electron (anim run) (124x259)_27
+  - first:
+      213: -1121025189522810279
+    second: Electron (anim run) (124x259)_28
+  - first:
+      213: 5103679496916066711
+    second: Electron (anim run) (124x259)_29
+  - first:
+      213: 7747852596202353566
+    second: Electron (anim run) (124x259)_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1295
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059f8581ba3a38480800000000000000
+      internalID: -8898088483510748848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1295
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbdfc87d215e29c0800000000000000
+      internalID: -3950130567415079988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1295
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b889abc8a478cbdd0800000000000000
+      internalID: -2468949741447505781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1295
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0180364c41ac27f0800000000000000
+      internalID: -635956098398912245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1295
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2706c925a35ef80800000000000000
+      internalID: -8077986230133820766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1295
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c05f05b0e8ec010800000000000000
+      internalID: 1211061529063263280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1036
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0159d2a661640f9f0800000000000000
+      internalID: -436772101770341104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1036
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b72e000a3a6b010800000000000000
+      internalID: 1204329857973123901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1036
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fef1a9732ea176c0800000000000000
+      internalID: -4147342314443768072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1036
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a4d05459e59e3f0800000000000000
+      internalID: -871061057717843392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1036
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc6c761e138d5570800000000000000
+      internalID: 8457059840521170116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_11
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1036
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57092e9c815172de0800000000000000
+      internalID: -1358093566418448267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 777
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01af0e8704f8a8260800000000000000
+      internalID: 7100645269571697168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 777
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc2099f462125e20800000000000000
+      internalID: 3337750498727963900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 777
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d81608988c1b010800000000000000
+      internalID: 1202963068374584598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_15
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 777
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03340f871d8409950800000000000000
+      internalID: 6453738330536297264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 777
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf74d02e1ecf6c80800000000000000
+      internalID: -8327210557189619793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_17
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 777
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcbe2657cda64c40800000000000000
+      internalID: 5496271466908269790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94c069465cbc3400800000000000000
+      internalID: 305325953538639007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_19
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 518
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2204790705d3700800000000000000
+      internalID: 521661576348967629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_20
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 518
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc989636ac727580800000000000000
+      internalID: -8830858865997734736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 518
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7e8300ec3748220800000000000000
+      internalID: 2487240222819543009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_22
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 518
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517d0b9184bad3f10800000000000000
+      internalID: 2251143714912130837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_23
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 518
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d7e1770ce8e0280800000000000000
+      internalID: -9075159241821618846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef04d19d99ae7e00800000000000000
+      internalID: 1044458657818087406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 259
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fb6007b942fbe30800000000000000
+      internalID: 4521372800921288455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 259
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c922f80894d34640800000000000000
+      internalID: 5063124155544775104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_27
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 259
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b616a869c4c67d90800000000000000
+      internalID: -7100271393179822408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 259
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a5a3297815170f0800000000000000
+      internalID: -1121025189522810279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_29
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 259
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79160254679e3d640800000000000000
+      internalID: 5103679496916066711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim run) (124x259)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 124
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93bab8e2e6e58b60800000000000000
+      internalID: 7747852596202353566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

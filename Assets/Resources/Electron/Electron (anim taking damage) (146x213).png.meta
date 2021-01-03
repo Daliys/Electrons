@@ -1,0 +1,862 @@
+fileFormatVersion: 2
+guid: 4349e6fa0a9d63349b96ef1c73319f3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4913215229757487637
+    second: Electron (anim taking damage) (146x213)_0
+  - first:
+      213: -1595096310143356267
+    second: Electron (anim taking damage) (146x213)_1
+  - first:
+      213: 5174374235998411866
+    second: Electron (anim taking damage) (146x213)_2
+  - first:
+      213: 7726102812561767692
+    second: Electron (anim taking damage) (146x213)_3
+  - first:
+      213: 2413470854294556746
+    second: Electron (anim taking damage) (146x213)_4
+  - first:
+      213: -99697150095804210
+    second: Electron (anim taking damage) (146x213)_5
+  - first:
+      213: 775550764140192987
+    second: Electron (anim taking damage) (146x213)_6
+  - first:
+      213: 9173886884119544876
+    second: Electron (anim taking damage) (146x213)_7
+  - first:
+      213: 4165501753617256488
+    second: Electron (anim taking damage) (146x213)_8
+  - first:
+      213: 6598359649286943639
+    second: Electron (anim taking damage) (146x213)_9
+  - first:
+      213: -1711612102056026984
+    second: Electron (anim taking damage) (146x213)_10
+  - first:
+      213: -7987939543335109099
+    second: Electron (anim taking damage) (146x213)_11
+  - first:
+      213: -5850521221451027170
+    second: Electron (anim taking damage) (146x213)_12
+  - first:
+      213: -394682818458830948
+    second: Electron (anim taking damage) (146x213)_13
+  - first:
+      213: -2513153355036413258
+    second: Electron (anim taking damage) (146x213)_14
+  - first:
+      213: -3381566947874873199
+    second: Electron (anim taking damage) (146x213)_15
+  - first:
+      213: -3954093117323540719
+    second: Electron (anim taking damage) (146x213)_16
+  - first:
+      213: 1179592991320072985
+    second: Electron (anim taking damage) (146x213)_17
+  - first:
+      213: -7020580169907750093
+    second: Electron (anim taking damage) (146x213)_18
+  - first:
+      213: 2090941393687979649
+    second: Electron (anim taking damage) (146x213)_19
+  - first:
+      213: 8093398313896974656
+    second: Electron (anim taking damage) (146x213)_20
+  - first:
+      213: 419581533510971284
+    second: Electron (anim taking damage) (146x213)_21
+  - first:
+      213: -7753023893918675326
+    second: Electron (anim taking damage) (146x213)_22
+  - first:
+      213: -7879601385519720678
+    second: Electron (anim taking damage) (146x213)_23
+  - first:
+      213: -7018452843102684322
+    second: Electron (anim taking damage) (146x213)_24
+  - first:
+      213: -3603153768068362318
+    second: Electron (anim taking damage) (146x213)_25
+  - first:
+      213: -2886708029403197209
+    second: Electron (anim taking damage) (146x213)_26
+  - first:
+      213: -1009004872660554025
+    second: Electron (anim taking damage) (146x213)_27
+  - first:
+      213: 4010024969537313388
+    second: Electron (anim taking damage) (146x213)_28
+  - first:
+      213: -2758642484423477694
+    second: Electron (anim taking damage) (146x213)_29
+  - first:
+      213: -7036230068101351820
+    second: Electron (anim taking damage) (146x213)_30
+  - first:
+      213: 4335632978529892281
+    second: Electron (anim taking damage) (146x213)_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1065
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be50445a7c0c0dbb0800000000000000
+      internalID: -4913215229757487637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1065
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5927e5b6b541dd9e0800000000000000
+      internalID: -1595096310143356267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1065
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c5e9fd3f11fc740800000000000000
+      internalID: 5174374235998411866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1065
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0df3e8c291a83b60800000000000000
+      internalID: 7726102812561767692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1065
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a405cf174fe5e7120800000000000000
+      internalID: 2413470854294556746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1065
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8bb6f58fdcd9ef0800000000000000
+      internalID: -99697150095804210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4ebd99f4f43ca00800000000000000
+      internalID: 775550764140192987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 852
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c248f890481305f70800000000000000
+      internalID: 9173886884119544876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 852
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8209f9f66c5dec930800000000000000
+      internalID: 4165501753617256488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 852
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793f4043425129b50800000000000000
+      internalID: 6598359649286943639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_10
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 852
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cd0b79cd12f38e0800000000000000
+      internalID: -1711612102056026984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_11
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 852
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ef638ae43252190800000000000000
+      internalID: -7987939543335109099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1de68c42f5cecea0800000000000000
+      internalID: -5850521221451027170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 639
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97bfc6511ec58af0800000000000000
+      internalID: -394682818458830948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 639
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b239feb65c7f1dd0800000000000000
+      internalID: -2513153355036413258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 639
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19067b7f6c24211d0800000000000000
+      internalID: -3381566947874873199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_16
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 639
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1170d1d624d3029c0800000000000000
+      internalID: -3954093117323540719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_17
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 639
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9136c2b6391ce5010800000000000000
+      internalID: 1179592991320072985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b3f773883e19e90800000000000000
+      internalID: -7020580169907750093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 426
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186aee88e14840d10800000000000000
+      internalID: 2090941393687979649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 426
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0491395c2e6815070800000000000000
+      internalID: 8093398313896974656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 426
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f2c338e27a2d500800000000000000
+      internalID: 419581533510971284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 426
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e8cd388d9b76490800000000000000
+      internalID: -7753023893918675326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_23
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 426
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17db6ca94806a290800000000000000
+      internalID: -7879601385519720678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bb8061352799e90800000000000000
+      internalID: -7018452843102684322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 213
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfcc2ffcb60ffdc0800000000000000
+      internalID: -3603153768068362318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 213
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e09729775a50f7d0800000000000000
+      internalID: -2886708029403197209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_27
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 213
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deed6c0a6b4ff1f0800000000000000
+      internalID: -1009004872660554025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_28
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 213
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ad7b9b67876a730800000000000000
+      internalID: 4010024969537313388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_29
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 213
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24633adb64557b9d0800000000000000
+      internalID: -2758642484423477694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (anim taking damage) (146x213)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47675e8580a4a5e90800000000000000
+      internalID: -7036230068101351820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

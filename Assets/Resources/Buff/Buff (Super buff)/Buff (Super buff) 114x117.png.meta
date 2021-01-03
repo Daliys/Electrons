@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 3799ce2d655ddce4d99e78e19f9f3973
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8322140639969725594
+    second: Buff (Super buff) 114x117_0
+  - first:
+      213: 2753304141523383324
+    second: Buff (Super buff) 114x117_1
+  - first:
+      213: 3836477219133182058
+    second: Buff (Super buff) 114x117_2
+  - first:
+      213: 131601483642138640
+    second: Buff (Super buff) 114x117_3
+  - first:
+      213: -712373333152208594
+    second: Buff (Super buff) 114x117_4
+  - first:
+      213: -1650156700004324036
+    second: Buff (Super buff) 114x117_5
+  - first:
+      213: -8924602359963377011
+    second: Buff (Super buff) 114x117_6
+  - first:
+      213: -2441523771623430991
+    second: Buff (Super buff) 114x117_7
+  - first:
+      213: -3257177313900086180
+    second: Buff (Super buff) 114x117_8
+  - first:
+      213: 157081293932046112
+    second: Buff (Super buff) 114x117_9
+  - first:
+      213: -6279452791650775435
+    second: Buff (Super buff) 114x117_10
+  - first:
+      213: -1084826472513497128
+    second: Buff (Super buff) 114x117_11
+  - first:
+      213: -566195552618959873
+    second: Buff (Super buff) 114x117_12
+  - first:
+      213: 2530946239659103589
+    second: Buff (Super buff) 114x117_13
+  - first:
+      213: -2831319807140250671
+    second: Buff (Super buff) 114x117_14
+  - first:
+      213: -2602252539307394514
+    second: Buff (Super buff) 114x117_15
+  - first:
+      213: 4694077449005328252
+    second: Buff (Super buff) 114x117_16
+  - first:
+      213: -7729977782559176404
+    second: Buff (Super buff) 114x117_17
+  - first:
+      213: 4598340727073210634
+    second: Buff (Super buff) 114x117_18
+  - first:
+      213: 2895675480463451534
+    second: Buff (Super buff) 114x117_19
+  - first:
+      213: -9176941850047200036
+    second: Buff (Super buff) 114x117_20
+  - first:
+      213: -2794793946926568816
+    second: Buff (Super buff) 114x117_21
+  - first:
+      213: -4802765851150646638
+    second: Buff (Super buff) 114x117_22
+  - first:
+      213: -4620382911254541274
+    second: Buff (Super buff) 114x117_23
+  - first:
+      213: -7433734772830812074
+    second: Buff (Super buff) 114x117_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ccc38c1de2e7370800000000000000
+      internalID: 8322140639969725594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 468
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14fc127783b53620800000000000000
+      internalID: 2753304141523383324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 468
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60df4b44b7ed3530800000000000000
+      internalID: 3836477219133182058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 468
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01077642ada83d100800000000000000
+      internalID: 131601483642138640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 468
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2960025a342d16f0800000000000000
+      internalID: -712373333152208594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3de28869377919e0800000000000000
+      internalID: -1650156700004324036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 351
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8225cc2071752480800000000000000
+      internalID: -8924602359963377011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 351
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4a6b1c017fd1ed0800000000000000
+      internalID: -2441523771623430991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 351
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c36828d7e2cc2d0800000000000000
+      internalID: -3257177313900086180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 351
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027ada5ca901e2200800000000000000
+      internalID: 157081293932046112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e02d9b4f6ead8a0800000000000000
+      internalID: -6279452791650775435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 234
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d794e6221ce1f0f0800000000000000
+      internalID: -1084826472513497128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 234
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbadbc05287428f0800000000000000
+      internalID: -566195552618959873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 234
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565dd78023abf1320800000000000000
+      internalID: 2530946239659103589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 234
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbb0e9e2a125b8d0800000000000000
+      internalID: -2831319807140250671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a79b25a11f2ebd0800000000000000
+      internalID: -2602252539307394514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 117
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c776220d196b42140800000000000000
+      internalID: 4694077449005328252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 117
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2906e4792a99b490800000000000000
+      internalID: -7729977782559176404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 117
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a010969378690df30800000000000000
+      internalID: 4598340727073210634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 117
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8525dde1818f2820800000000000000
+      internalID: 2895675480463451534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd445874204f4a080800000000000000
+      internalID: -9176941850047200036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aa70576b5e639d0800000000000000
+      internalID: -2794793946926568816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2920ace87e5295db0800000000000000
+      internalID: -4802765851150646638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_23
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c4368d83a11efb0800000000000000
+      internalID: -4620382911254541274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (Super buff) 114x117_24
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65843f61c9116d890800000000000000
+      internalID: -7433734772830812074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

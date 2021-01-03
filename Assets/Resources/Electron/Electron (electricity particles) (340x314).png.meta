@@ -1,0 +1,1360 @@
+fileFormatVersion: 2
+guid: 788600d950203f04eaddf0e9bc284001
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5357930397016590059
+    second: Electron (electricity particles) (340x314)_0
+  - first:
+      213: -6088639951088936387
+    second: Electron (electricity particles) (340x314)_1
+  - first:
+      213: 3800616844343212220
+    second: Electron (electricity particles) (340x314)_2
+  - first:
+      213: 2376163990633603642
+    second: Electron (electricity particles) (340x314)_3
+  - first:
+      213: -6437706421232788300
+    second: Electron (electricity particles) (340x314)_4
+  - first:
+      213: -2490015064624567206
+    second: Electron (electricity particles) (340x314)_5
+  - first:
+      213: -3661318846221962760
+    second: Electron (electricity particles) (340x314)_6
+  - first:
+      213: 8650933603463854509
+    second: Electron (electricity particles) (340x314)_7
+  - first:
+      213: 1968452985060140496
+    second: Electron (electricity particles) (340x314)_8
+  - first:
+      213: 4560916028026322171
+    second: Electron (electricity particles) (340x314)_9
+  - first:
+      213: -7189058762600016761
+    second: Electron (electricity particles) (340x314)_10
+  - first:
+      213: -6907277730884451725
+    second: Electron (electricity particles) (340x314)_11
+  - first:
+      213: 622246487648761174
+    second: Electron (electricity particles) (340x314)_12
+  - first:
+      213: -6738638927804315029
+    second: Electron (electricity particles) (340x314)_13
+  - first:
+      213: -7813594793404784885
+    second: Electron (electricity particles) (340x314)_14
+  - first:
+      213: 5526295013616965537
+    second: Electron (electricity particles) (340x314)_15
+  - first:
+      213: -2403918407436532561
+    second: Electron (electricity particles) (340x314)_16
+  - first:
+      213: -9167077989643258355
+    second: Electron (electricity particles) (340x314)_17
+  - first:
+      213: 6529945711569740723
+    second: Electron (electricity particles) (340x314)_18
+  - first:
+      213: 2497226419598966192
+    second: Electron (electricity particles) (340x314)_19
+  - first:
+      213: -3659884744550814733
+    second: Electron (electricity particles) (340x314)_20
+  - first:
+      213: 2192867595854014666
+    second: Electron (electricity particles) (340x314)_21
+  - first:
+      213: 7830240325251771733
+    second: Electron (electricity particles) (340x314)_22
+  - first:
+      213: 2248991438144529035
+    second: Electron (electricity particles) (340x314)_23
+  - first:
+      213: 8143955185524244076
+    second: Electron (electricity particles) (340x314)_24
+  - first:
+      213: 2380411478828279496
+    second: Electron (electricity particles) (340x314)_25
+  - first:
+      213: -5287041995320168310
+    second: Electron (electricity particles) (340x314)_26
+  - first:
+      213: 3419364244496686204
+    second: Electron (electricity particles) (340x314)_27
+  - first:
+      213: -6834493842252721359
+    second: Electron (electricity particles) (340x314)_28
+  - first:
+      213: 2028062320334036400
+    second: Electron (electricity particles) (340x314)_29
+  - first:
+      213: -399065593545321263
+    second: Electron (electricity particles) (340x314)_30
+  - first:
+      213: -6548775874743371837
+    second: Electron (electricity particles) (340x314)_31
+  - first:
+      213: -6537321189369983492
+    second: Electron (electricity particles) (340x314)_32
+  - first:
+      213: 9093317466894060107
+    second: Electron (electricity particles) (340x314)_33
+  - first:
+      213: -7009326715516778008
+    second: Electron (electricity particles) (340x314)_34
+  - first:
+      213: -1452825500929561140
+    second: Electron (electricity particles) (340x314)_35
+  - first:
+      213: 684743683225116770
+    second: Electron (electricity particles) (340x314)_36
+  - first:
+      213: -1343245132297327003
+    second: Electron (electricity particles) (340x314)_37
+  - first:
+      213: 8122609184271128647
+    second: Electron (electricity particles) (340x314)_38
+  - first:
+      213: 6492221654443291162
+    second: Electron (electricity particles) (340x314)_39
+  - first:
+      213: -556656382204363831
+    second: Electron (electricity particles) (340x314)_40
+  - first:
+      213: 1208673543251719708
+    second: Electron (electricity particles) (340x314)_41
+  - first:
+      213: 6792297397243871188
+    second: Electron (electricity particles) (340x314)_42
+  - first:
+      213: -7367225379694267042
+    second: Electron (electricity particles) (340x314)_43
+  - first:
+      213: 2632400259838646197
+    second: Electron (electricity particles) (340x314)_44
+  - first:
+      213: 5284509220768353951
+    second: Electron (electricity particles) (340x314)_45
+  - first:
+      213: -7463556371645155275
+    second: Electron (electricity particles) (340x314)_46
+  - first:
+      213: 2247338824051245487
+    second: Electron (electricity particles) (340x314)_47
+  - first:
+      213: -5662632744890911145
+    second: Electron (electricity particles) (340x314)_48
+  - first:
+      213: -4121197992245812326
+    second: Electron (electricity particles) (340x314)_49
+  - first:
+      213: -5613677159041142700
+    second: Electron (electricity particles) (340x314)_50
+  - first:
+      213: -3030456368185411922
+    second: Electron (electricity particles) (340x314)_51
+  - first:
+      213: 2814446553033970868
+    second: Electron (electricity particles) (340x314)_52
+  - first:
+      213: 5533990690031798033
+    second: Electron (electricity particles) (340x314)_53
+  - first:
+      213: -7142203964486126667
+    second: Electron (electricity particles) (340x314)_54
+  - first:
+      213: 4940923825278909968
+    second: Electron (electricity particles) (340x314)_55
+  - first:
+      213: 4959484949780782233
+    second: Electron (electricity particles) (340x314)_56
+  - first:
+      213: -1097211532825087666
+    second: Electron (electricity particles) (340x314)_57
+  - first:
+      213: 6766520244049379104
+    second: Electron (electricity particles) (340x314)_58
+  - first:
+      213: -8081775221450718529
+    second: Electron (electricity particles) (340x314)_59
+  - first:
+      213: -6290218929642744696
+    second: Electron (electricity particles) (340x314)_60
+  - first:
+      213: -5082961800106501716
+    second: Electron (electricity particles) (340x314)_61
+  - first:
+      213: 6562796225089760835
+    second: Electron (electricity particles) (340x314)_62
+  - first:
+      213: 3117402652668712755
+    second: Electron (electricity particles) (340x314)_63
+  - first:
+      213: 1627225662327871441
+    second: Electron (electricity particles) (340x314)_64
+  - first:
+      213: -1219444235877919593
+    second: Electron (electricity particles) (340x314)_65
+  - first:
+      213: 9020191974314148051
+    second: Electron (electricity particles) (340x314)_66
+  - first:
+      213: 5224269328800991092
+    second: Electron (electricity particles) (340x314)_67
+  - first:
+      213: -728913507123700288
+    second: Electron (electricity particles) (340x314)_68
+  - first:
+      213: -8620299115026746721
+    second: Electron (electricity particles) (340x314)_69
+  - first:
+      213: 7772815564512537617
+    second: Electron (electricity particles) (340x314)_70
+  - first:
+      213: 63567788172112256
+    second: Electron (electricity particles) (340x314)_71
+  - first:
+      213: 2837426319461775224
+    second: Electron (electricity particles) (340x314)_72
+  - first:
+      213: -9041569138533879115
+    second: Electron (electricity particles) (340x314)_73
+  - first:
+      213: 2734390512486914290
+    second: Electron (electricity particles) (340x314)_74
+  - first:
+      213: 9002790301908564195
+    second: Electron (electricity particles) (340x314)_75
+  - first:
+      213: -5218495509585787510
+    second: Electron (electricity particles) (340x314)_76
+  - first:
+      213: -1465615275269557448
+    second: Electron (electricity particles) (340x314)_77
+  - first:
+      213: 1110316622733960262
+    second: Electron (electricity particles) (340x314)_78
+  - first:
+      213: -5283875762244398929
+    second: Electron (electricity particles) (340x314)_79
+  - first:
+      213: -3082995980515482144
+    second: Electron (electricity particles) (340x314)_80
+  - first:
+      213: 3743839256168163478
+    second: Electron (electricity particles) (340x314)_81
+  - first:
+      213: 1872222874789499825
+    second: Electron (electricity particles) (340x314)_82
+  - first:
+      213: 8190174225236502992
+    second: Electron (electricity particles) (340x314)_83
+  - first:
+      213: 4483750156009261272
+    second: Electron (electricity particles) (340x314)_84
+  - first:
+      213: -5334707450470893608
+    second: Electron (electricity particles) (340x314)_85
+  - first:
+      213: -8275425379453770835
+    second: Electron (electricity particles) (340x314)_86
+  - first:
+      213: -7970337049820824575
+    second: Electron (electricity particles) (340x314)_87
+  - first:
+      213: -3253066714797597348
+    second: Electron (electricity particles) (340x314)_88
+  - first:
+      213: 5546404700995866666
+    second: Electron (electricity particles) (340x314)_89
+  - first:
+      213: 3802080966404467115
+    second: Electron (electricity particles) (340x314)_90
+  - first:
+      213: -5377836027028608474
+    second: Electron (electricity particles) (340x314)_91
+  - first:
+      213: 8240134514986703940
+    second: Electron (electricity particles) (340x314)_92
+  - first:
+      213: -6490418285603999131
+    second: Electron (electricity particles) (340x314)_93
+  - first:
+      213: 7339913400528938822
+    second: Electron (electricity particles) (340x314)_94
+  - first:
+      213: -7158194016966487299
+    second: Electron (electricity particles) (340x314)_95
+  - first:
+      213: 8339112256454923727
+    second: Electron (electricity particles) (340x314)_96
+  - first:
+      213: 1955829116631463784
+    second: Electron (electricity particles) (340x314)_97
+  - first:
+      213: -2097581794567685185
+    second: Electron (electricity particles) (340x314)_98
+  - first:
+      213: 3499543478727488249
+    second: Electron (electricity particles) (340x314)_99
+  - first:
+      213: -497184182900476652
+    second: Electron (electricity particles) (340x314)_100
+  - first:
+      213: 3985619444666616855
+    second: Electron (electricity particles) (340x314)_101
+  - first:
+      213: 1625046183548769889
+    second: Electron (electricity particles) (340x314)_102
+  - first:
+      213: 8974043341904580591
+    second: Electron (electricity particles) (340x314)_103
+  - first:
+      213: 4222889417018581979
+    second: Electron (electricity particles) (340x314)_104
+  - first:
+      213: 8631103048306840524
+    second: Electron (electricity particles) (340x314)_105
+  - first:
+      213: -849843361811755628
+    second: Electron (electricity particles) (340x314)_106
+  - first:
+      213: -157234444788694171
+    second: Electron (electricity particles) (340x314)_107
+  - first:
+      213: 7931979360576065193
+    second: Electron (electricity particles) (340x314)_108
+  - first:
+      213: -5659980224821075353
+    second: Electron (electricity particles) (340x314)_109
+  - first:
+      213: 6016761718845312941
+    second: Electron (electricity particles) (340x314)_110
+  - first:
+      213: 8079682752879938228
+    second: Electron (electricity particles) (340x314)_111
+  - first:
+      213: 3437837614762298435
+    second: Electron (electricity particles) (340x314)_112
+  - first:
+      213: -6647329141305991076
+    second: Electron (electricity particles) (340x314)_113
+  - first:
+      213: 6028646444494422581
+    second: Electron (electricity particles) (340x314)_114
+  - first:
+      213: -2268892861821349650
+    second: Electron (electricity particles) (340x314)_115
+  - first:
+      213: -425753282218983330
+    second: Electron (electricity particles) (340x314)_116
+  - first:
+      213: 3076004932485771545
+    second: Electron (electricity particles) (340x314)_117
+  - first:
+      213: 7206739008166164044
+    second: Electron (electricity particles) (340x314)_118
+  - first:
+      213: -5285161877377767959
+    second: Electron (electricity particles) (340x314)_119
+  - first:
+      213: -6698402040435107586
+    second: Electron (electricity particles) (340x314)_120
+  - first:
+      213: 4742304643648546164
+    second: Electron (electricity particles) (340x314)_121
+  - first:
+      213: -598986556223688618
+    second: Electron (electricity particles) (340x314)_122
+  - first:
+      213: -944323289441889866
+    second: Electron (electricity particles) (340x314)_123
+  - first:
+      213: -4539310298723740232
+    second: Electron (electricity particles) (340x314)_124
+  - first:
+      213: -6586847969838830928
+    second: Electron (electricity particles) (340x314)_125
+  - first:
+      213: -7307582740281337307
+    second: Electron (electricity particles) (340x314)_126
+  - first:
+      213: -5063907837365717938
+    second: Electron (electricity particles) (340x314)_127
+  - first:
+      213: -4639090102925748571
+    second: Electron (electricity particles) (340x314)_128
+  - first:
+      213: -4994498274683519330
+    second: Electron (electricity particles) (340x314)_129
+  - first:
+      213: 6676512815948889698
+    second: Electron (electricity particles) (340x314)_130
+  - first:
+      213: -6179481949917903524
+    second: Electron (electricity particles) (340x314)_131
+  - first:
+      213: 5543610640960148739
+    second: Electron (electricity particles) (340x314)_132
+  - first:
+      213: 2909006043959235977
+    second: Electron (electricity particles) (340x314)_133
+  - first:
+      213: -2497959780110343809
+    second: Electron (electricity particles) (340x314)_134
+  - first:
+      213: 1969453287377411930
+    second: Electron (electricity particles) (340x314)_135
+  - first:
+      213: -4837727874787013388
+    second: Electron (electricity particles) (340x314)_136
+  - first:
+      213: 7865307497096768566
+    second: Electron (electricity particles) (340x314)_137
+  - first:
+      213: -8209743390662599766
+    second: Electron (electricity particles) (340x314)_138
+  - first:
+      213: 4395868867458163437
+    second: Electron (electricity particles) (340x314)_139
+  - first:
+      213: 4026805885585481049
+    second: Electron (electricity particles) (340x314)_140
+  - first:
+      213: -3983490366231356552
+    second: Electron (electricity particles) (340x314)_141
+  - first:
+      213: 2241927235972811639
+    second: Electron (electricity particles) (340x314)_142
+  - first:
+      213: -8922246222784994482
+    second: Electron (electricity particles) (340x314)_143
+  - first:
+      213: 7109097132657076554
+    second: Electron (electricity particles) (340x314)_144
+  - first:
+      213: 3570473581959619447
+    second: Electron (electricity particles) (340x314)_145
+  - first:
+      213: 5934300848053458018
+    second: Electron (electricity particles) (340x314)_146
+  - first:
+      213: 1621313218558021069
+    second: Electron (electricity particles) (340x314)_147
+  - first:
+      213: -1752042495995644704
+    second: Electron (electricity particles) (340x314)_148
+  - first:
+      213: 3383370401151686395
+    second: Electron (electricity particles) (340x314)_149
+  - first:
+      213: 6488259189406117332
+    second: Electron (electricity particles) (340x314)_150
+  - first:
+      213: 4337396296425125817
+    second: Electron (electricity particles) (340x314)_151
+  - first:
+      213: -1025868349907728186
+    second: Electron (electricity particles) (340x314)_152
+  - first:
+      213: -3223021883110855152
+    second: Electron (electricity particles) (340x314)_153
+  - first:
+      213: -7316824685720804532
+    second: Electron (electricity particles) (340x314)_154
+  - first:
+      213: 5881149615320687459
+    second: Electron (electricity particles) (340x314)_155
+  - first:
+      213: -8630758278122306898
+    second: Electron (electricity particles) (340x314)_156
+  - first:
+      213: -3640365839100674936
+    second: Electron (electricity particles) (340x314)_157
+  - first:
+      213: -3672993441484867661
+    second: Electron (electricity particles) (340x314)_158
+  - first:
+      213: 7980358267769544143
+    second: Electron (electricity particles) (340x314)_159
+  - first:
+      213: 5294444018945637079
+    second: Electron (electricity particles) (340x314)_160
+  - first:
+      213: -706018320928252086
+    second: Electron (electricity particles) (340x314)_161
+  - first:
+      213: 3627433958526171878
+    second: Electron (electricity particles) (340x314)_162
+  - first:
+      213: 3712553193719899234
+    second: Electron (electricity particles) (340x314)_163
+  - first:
+      213: 2929758770769895583
+    second: Electron (electricity particles) (340x314)_164
+  - first:
+      213: -9019812229366894464
+    second: Electron (electricity particles) (340x314)_165
+  - first:
+      213: 2709486102225791183
+    second: Electron (electricity particles) (340x314)_166
+  - first:
+      213: 2414897929212169157
+    second: Electron (electricity particles) (340x314)_167
+  - first:
+      213: 2023244762018562693
+    second: Electron (electricity particles) (340x314)_168
+  - first:
+      213: 2217027565452102948
+    second: Electron (electricity particles) (340x314)_169
+  - first:
+      213: 1113178370613888913
+    second: Electron (electricity particles) (340x314)_170
+  - first:
+      213: 886930178144399114
+    second: Electron (electricity particles) (340x314)_171
+  - first:
+      213: 5717802262465998787
+    second: Electron (electricity particles) (340x314)_172
+  - first:
+      213: 174116169932996
+    second: Electron (electricity particles) (340x314)_173
+  - first:
+      213: 8999971807243736444
+    second: Electron (electricity particles) (340x314)_174
+  - first:
+      213: -1551531113452124938
+    second: Electron (electricity particles) (340x314)_175
+  - first:
+      213: 1467174312204973455
+    second: Electron (electricity particles) (340x314)_176
+  - first:
+      213: 4844756493100685749
+    second: Electron (electricity particles) (340x314)_177
+  - first:
+      213: -6958229503150596628
+    second: Electron (electricity particles) (340x314)_178
+  - first:
+      213: -5513305164717038610
+    second: Electron (electricity particles) (340x314)_179
+  - first:
+      213: 712898229996825875
+    second: Electron (electricity particles) (340x314)_180
+  - first:
+      213: -1312274008955163341
+    second: Electron (electricity particles) (340x314)_181
+  - first:
+      213: -7837794139993915238
+    second: Electron (electricity particles) (340x314)_182
+  - first:
+      213: -8559484550483719425
+    second: Electron (electricity particles) (340x314)_183
+  - first:
+      213: 8629269277924206290
+    second: Electron (electricity particles) (340x314)_184
+  - first:
+      213: 2825323816430851478
+    second: Electron (electricity particles) (340x314)_185
+  - first:
+      213: -5713048186779789140
+    second: Electron (electricity particles) (340x314)_186
+  - first:
+      213: -9215725161095393447
+    second: Electron (electricity particles) (340x314)_187
+  - first:
+      213: -1717558101783397434
+    second: Electron (electricity particles) (340x314)_188
+  - first:
+      213: -7668244670684714661
+    second: Electron (electricity particles) (340x314)_189
+  - first:
+      213: 1725402959142968021
+    second: Electron (electricity particles) (340x314)_190
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1570
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6017dfe413b5a40800000000000000
+      internalID: 5357930397016590059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1570
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a9716393ec08ba0800000000000000
+      internalID: -6088639951088936387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1570
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8717622e08eb430800000000000000
+      internalID: 3800616844343212220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1570
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a326acd5f84d9f020800000000000000
+      internalID: 2376163990633603642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1570
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc1b2a4e1ca8a6a0800000000000000
+      internalID: -6437706421232788300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1570
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c6eabcd70b17dd0800000000000000
+      internalID: -2490015064624567206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_6
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1570
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f13f7968e1603dc0800000000000000
+      internalID: -3661318846221962760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1256
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9f3f9174a4e0870800000000000000
+      internalID: 8650933603463854509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1256
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d521938f89515b10800000000000000
+      internalID: 1968452985060140496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_9
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1256
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcf4e476f0ab4f30800000000000000
+      internalID: 4560916028026322171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_10
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1256
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78411d905255b3c90800000000000000
+      internalID: -7189058762600016761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_11
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1256
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3728aa5008b6420a0800000000000000
+      internalID: -6907277730884451725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_12
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1256
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655f90b32e9a2a800800000000000000
+      internalID: 622246487648761174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_13
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1256
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aca96199b8b72a0800000000000000
+      internalID: -6738638927804315029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 942
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f14400fe8809390800000000000000
+      internalID: -7813594793404784885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 942
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7d6aa090851bc40800000000000000
+      internalID: 5526295013616965537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 942
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa409b7e1f093aed0800000000000000
+      internalID: -2403918407436532561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_17
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 942
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06f20f332ff7c080800000000000000
+      internalID: -9167077989643258355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_18
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 942
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b323bc07070f9a50800000000000000
+      internalID: 6529945711569740723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_19
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 942
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdbaef923ee7a220800000000000000
+      internalID: 2497226419598966192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_20
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 942
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb6d2a373a753dc0800000000000000
+      internalID: -3659884744550814733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8e75ac571ae6e10800000000000000
+      internalID: 2192867595854014666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 628
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d2294e61a9aac60800000000000000
+      internalID: 7830240325251771733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_23
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 628
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82ef7d1cc5063f10800000000000000
+      internalID: 2248991438144529035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_24
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 628
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e7fdbb714250170800000000000000
+      internalID: 8143955185524244076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_25
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 628
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c662d6c0abe80120800000000000000
+      internalID: 2380411478828279496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_26
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 628
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a807e543157a0a6b0800000000000000
+      internalID: -5287041995320168310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_27
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 628
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c95eee9a5047f20800000000000000
+      internalID: 3419364244496686204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1339ee8af000721a0800000000000000
+      internalID: -6834493842252721359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 314
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd5dd96fef152c10800000000000000
+      internalID: 2028062320334036400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_30
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 312
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d496aef4fb367af0800000000000000
+      internalID: -399065593545321263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electron (electricity particles) (340x314)_31
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 314
+        width: 340
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7f540f9031e15a0800000000000000
+      internalID: -6548775874743371837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

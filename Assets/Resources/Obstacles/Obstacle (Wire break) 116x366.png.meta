@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 94cc8b12d527d0343889d56fda25d29e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7270594443329753785
+    second: Obstacle (Wire break) 116x366_0
+  - first:
+      213: -5873751936901763702
+    second: Obstacle (Wire break) 116x366_1
+  - first:
+      213: -1529287259894575859
+    second: Obstacle (Wire break) 116x366_2
+  - first:
+      213: 1862063771117470470
+    second: Obstacle (Wire break) 116x366_3
+  - first:
+      213: 4766049619397652725
+    second: Obstacle (Wire break) 116x366_4
+  - first:
+      213: -4553508365270942210
+    second: Obstacle (Wire break) 116x366_5
+  - first:
+      213: 5390091749103597145
+    second: Obstacle (Wire break) 116x366_6
+  - first:
+      213: -8127551625520433301
+    second: Obstacle (Wire break) 116x366_7
+  - first:
+      213: 1739257930597468385
+    second: Obstacle (Wire break) 116x366_8
+  - first:
+      213: 3773387119681714734
+    second: Obstacle (Wire break) 116x366_9
+  - first:
+      213: 2654917291760121093
+    second: Obstacle (Wire break) 116x366_10
+  - first:
+      213: -6463371904897940572
+    second: Obstacle (Wire break) 116x366_11
+  - first:
+      213: -9090268664515308979
+    second: Obstacle (Wire break) 116x366_12
+  - first:
+      213: -8755531299428836952
+    second: Obstacle (Wire break) 116x366_13
+  - first:
+      213: -2226153900384513154
+    second: Obstacle (Wire break) 116x366_14
+  - first:
+      213: -2368512266992647279
+    second: Obstacle (Wire break) 116x366_15
+  - first:
+      213: 5164062356728496708
+    second: Obstacle (Wire break) 116x366_16
+  - first:
+      213: 2424887363269150302
+    second: Obstacle (Wire break) 116x366_17
+  - first:
+      213: 5248532020351719362
+    second: Obstacle (Wire break) 116x366_18
+  - first:
+      213: 5883392267528810568
+    second: Obstacle (Wire break) 116x366_19
+  - first:
+      213: 2024571527161499151
+    second: Obstacle (Wire break) 116x366_20
+  - first:
+      213: -2676965149839456436
+    second: Obstacle (Wire break) 116x366_21
+  - first:
+      213: 5829307404079436806
+    second: Obstacle (Wire break) 116x366_22
+  - first:
+      213: -640478313636344808
+    second: Obstacle (Wire break) 116x366_23
+  - first:
+      213: 269393329407482788
+    second: Obstacle (Wire break) 116x366_24
+  - first:
+      213: -8081458171203322172
+    second: Obstacle (Wire break) 116x366_25
+  - first:
+      213: 1327059564773424201
+    second: Obstacle (Wire break) 116x366_26
+  - first:
+      213: 7070005056873514050
+    second: Obstacle (Wire break) 116x366_27
+  - first:
+      213: -1671135170592111899
+    second: Obstacle (Wire break) 116x366_28
+  - first:
+      213: -1452500861824430400
+    second: Obstacle (Wire break) 116x366_29
+  - first:
+      213: 2130695369645166449
+    second: Obstacle (Wire break) 116x366_30
+  - first:
+      213: 3745202982089733480
+    second: Obstacle (Wire break) 116x366_31
+  - first:
+      213: -9044164816190904195
+    second: Obstacle (Wire break) 116x366_32
+  - first:
+      213: -767553354159512103
+    second: Obstacle (Wire break) 116x366_33
+  - first:
+      213: -2389561194219365462
+    second: Obstacle (Wire break) 116x366_34
+  - first:
+      213: 726878691223350475
+    second: Obstacle (Wire break) 116x366_35
+  - first:
+      213: 8484929064382880894
+    second: Obstacle (Wire break) 116x366_36
+  - first:
+      213: -4379036792258103816
+    second: Obstacle (Wire break) 116x366_37
+  - first:
+      213: -4414920741174990341
+    second: Obstacle (Wire break) 116x366_38
+  - first:
+      213: 1857152635720562499
+    second: Obstacle (Wire break) 116x366_39
+  - first:
+      213: -6431514019247683299
+    second: Obstacle (Wire break) 116x366_40
+  - first:
+      213: -8015532853012592450
+    second: Obstacle (Wire break) 116x366_41
+  - first:
+      213: -2822173429870317154
+    second: Obstacle (Wire break) 116x366_42
+  - first:
+      213: 5097940528699102739
+    second: Obstacle (Wire break) 116x366_43
+  - first:
+      213: 1874260261592111681
+    second: Obstacle (Wire break) 116x366_44
+  - first:
+      213: 7622205325867785384
+    second: Obstacle (Wire break) 116x366_45
+  - first:
+      213: 632040365636931108
+    second: Obstacle (Wire break) 116x366_46
+  - first:
+      213: -8303663226589284625
+    second: Obstacle (Wire break) 116x366_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1560
+        width: 65
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2599cff1756e460800000000000000
+      internalID: 7270594443329753785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1560
+        width: 65
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d253edbbd3c7ea0800000000000000
+      internalID: -5873751936901763702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1560
+        width: 65
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d0472f651e6cae0800000000000000
+      internalID: -1529287259894575859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1560
+        width: 65
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603c49a522167d910800000000000000
+      internalID: 1862063771117470470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1560
+        width: 78
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0351290e8642240800000000000000
+      internalID: 4766049619397652725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1194
+        width: 78
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd714e6440bec0c0800000000000000
+      internalID: -4553508365270942210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1194
+        width: 78
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956751c43e37dca40800000000000000
+      internalID: 5390091749103597145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1194
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67b433bbd2253f80800000000000000
+      internalID: -8127551625520433301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_8
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1194
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e80b067fd5132810800000000000000
+      internalID: 1739257930597468385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_9
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1194
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ab9a4d793cd5430800000000000000
+      internalID: 3773387119681714734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 828
+        width: 90
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5057763e53928d420800000000000000
+      internalID: 2654917291760121093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 828
+        width: 90
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a381553f7d7d46a0800000000000000
+      internalID: -6463371904897940572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 828
+        width: 91
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4253badfc0e8d180800000000000000
+      internalID: -9090268664515308979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 828
+        width: 65
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9dab50caa1e7680800000000000000
+      internalID: -8755531299428836952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_14
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 828
+        width: 65
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e731b3082dc1b11e0800000000000000
+      internalID: -2226153900384513154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 462
+        width: 65
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1938fbf54aa512fd0800000000000000
+      internalID: -2368512266992647279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 462
+        width: 111
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442c4c26a5f6aa740800000000000000
+      internalID: 5164062356728496708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 462
+        width: 110
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56cdf3953ee6a120800000000000000
+      internalID: 2424887363269150302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_18
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 462
+        width: 110
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7d359801886d840800000000000000
+      internalID: 5248532020351719362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_19
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 462
+        width: 82
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840b554881206a150800000000000000
+      internalID: 5883392267528810568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 96
+        width: 82
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ec4dac319b81c10800000000000000
+      internalID: 2024571527161499151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 96
+        width: 83
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4708bf116289dad0800000000000000
+      internalID: -2676965149839456436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 96
+        width: 123
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60495b2f23cd5e050800000000000000
+      internalID: 5829307404079436806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (Wire break) 116x366_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 96
+        width: 116
+        height: 164
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c4d5dfd509c17f0800000000000000
+      internalID: -640478313636344808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

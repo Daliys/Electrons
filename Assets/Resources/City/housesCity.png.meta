@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: b1559b408e155c74aa51a85cc3bd0490
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4693174810602355930
+    second: blocks houses (location City)_0
+  - first:
+      213: 125398419711270675
+    second: blocks houses (location City)_1
+  - first:
+      213: -6686055194303896703
+    second: blocks houses (location City)_2
+  - first:
+      213: -7684741848931411157
+    second: blocks houses (location City)_3
+  - first:
+      213: 7182355176064749894
+    second: blocks houses (location City)_4
+  - first:
+      213: 4747962678220719284
+    second: blocks houses (location City)_5
+  - first:
+      213: 6095235482395947151
+    second: blocks houses (location City)_6
+  - first:
+      213: 7581654279531617199
+    second: blocks houses (location City)_7
+  - first:
+      213: 3489454820103319250
+    second: blocks houses (location City)_8
+  - first:
+      213: 5666967747124586430
+    second: blocks houses (location City)_9
+  - first:
+      213: -1804385428644912539
+    second: blocks houses (location City)_10
+  - first:
+      213: 9003445626227859745
+    second: blocks houses (location City)_11
+  - first:
+      213: -7489068591583597152
+    second: blocks houses (location City)_12
+  - first:
+      213: 1398249777561317602
+    second: blocks houses (location City)_13
+  - first:
+      213: -2140383963933701948
+    second: blocks houses (location City)_14
+  - first:
+      213: 1329921158244722840
+    second: blocks houses (location City)_15
+  - first:
+      213: 4127460475455286043
+    second: blocks houses (location City)_16
+  - first:
+      213: 9023984420998019330
+    second: blocks houses (location City)_17
+  - first:
+      213: -2362183823625576385
+    second: blocks houses (location City)_18
+  - first:
+      213: -169397909078538256
+    second: blocks houses (location City)_19
+  - first:
+      213: 3824427003893138339
+    second: blocks houses (location City)_20
+  - first:
+      213: 1962352621905101944
+    second: blocks houses (location City)_21
+  - first:
+      213: 8790611597148427194
+    second: blocks houses (location City)_22
+  - first:
+      213: -8887178280555816376
+    second: blocks houses (location City)_23
+  - first:
+      213: -8760453919794841495
+    second: blocks houses (location City)_24
+  - first:
+      213: 7120596617804148033
+    second: blocks houses (location City)_25
+  - first:
+      213: 1810856223967716529
+    second: blocks houses (location City)_26
+  - first:
+      213: 667954273971084423
+    second: blocks houses (location City)_27
+  - first:
+      213: 306792235655564016
+    second: blocks houses (location City)_28
+  - first:
+      213: 677751315413403116
+    second: blocks houses (location City)_29
+  - first:
+      213: 839025402127811796
+    second: housesCity_0
+  - first:
+      213: 8741862832656283221
+    second: housesCity_1
+  - first:
+      213: 2166338238561410889
+    second: housesCity_2
+  - first:
+      213: -1008438559029667062
+    second: housesCity_3
+  - first:
+      213: 8402428649386363826
+    second: housesCity_4
+  - first:
+      213: -2764764918443816090
+    second: housesCity_5
+  - first:
+      213: -5733114599831792017
+    second: housesCity_6
+  - first:
+      213: 7131032083289154435
+    second: housesCity_7
+  - first:
+      213: -985536699760646574
+    second: housesCity_8
+  - first:
+      213: -8588582513651855636
+    second: housesCity_9
+  - first:
+      213: 829645618548585895
+    second: housesCity_10
+  - first:
+      213: 3894451508181843269
+    second: housesCity_11
+  - first:
+      213: 1067625348673618976
+    second: housesCity_12
+  - first:
+      213: 1081847164299161317
+    second: housesCity_13
+  - first:
+      213: -985424931635594562
+    second: housesCity_14
+  - first:
+      213: 7953785831238115218
+    second: housesCity_15
+  - first:
+      213: -3499161055269340921
+    second: housesCity_16
+  - first:
+      213: 813967619594115847
+    second: housesCity_17
+  - first:
+      213: 6752132162693393753
+    second: housesCity_18
+  - first:
+      213: 1841846804701888632
+    second: housesCity_19
+  - first:
+      213: -8416771896192448815
+    second: housesCity_20
+  - first:
+      213: 662526126162847665
+    second: housesCity_21
+  - first:
+      213: -3189550724074563874
+    second: housesCity_22
+  - first:
+      213: -4840255220360443351
+    second: housesCity_23
+  - first:
+      213: 2346454313827010036
+    second: housesCity_24
+  - first:
+      213: -5776482668396808635
+    second: housesCity_25
+  - first:
+      213: -4837029002179367439
+    second: housesCity_26
+  - first:
+      213: -394500144546430219
+    second: housesCity_27
+  - first:
+      213: -6738422513336184453
+    second: housesCity_28
+  - first:
+      213: -6303073023809546176
+    second: housesCity_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: housesCity_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2923
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d48b5b6821d4ab00800000000000000
+      internalID: 839025402127811796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_1
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2925
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556faaf0ee5515970800000000000000
+      internalID: 8741862832656283221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_2
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2925
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f5cc47621601e10800000000000000
+      internalID: 2166338238561410889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_3
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 2925
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bda37397e4102f0800000000000000
+      internalID: -1008438559029667062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_4
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 2925
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb4d31b65c6b9470800000000000000
+      internalID: 8402428649386363826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2344
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bc1bc74f491a9d0800000000000000
+      internalID: -2764764918443816090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_6
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2340
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f669b6495a2ef60b0800000000000000
+      internalID: -5733114599831792017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_7
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2340
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3832d5ed5e386f260800000000000000
+      internalID: 7131032083289154435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_8
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 2340
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256e7a9d79ba252f0800000000000000
+      internalID: -985536699760646574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_9
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 2340
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee46a545b93fc880800000000000000
+      internalID: -8588582513651855636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1755
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a53c0f5b4e738b00800000000000000
+      internalID: 829645618548585895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1755
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54db924530fdb0630800000000000000
+      internalID: 3894451508181843269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_12
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1755
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024c4ec1997f0de00800000000000000
+      internalID: 1067625348673618976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_13
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1755
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eea059934e730f00800000000000000
+      internalID: 1081847164299161317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_14
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1755
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebafb05ee311352f0800000000000000
+      internalID: -985424931635594562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1170
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f9b729216816e60800000000000000
+      internalID: 7953785831238115218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_16
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1170
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7093ac04f8b707fc0800000000000000
+      internalID: -3499161055269340921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_17
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1170
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bd398cc3bcb4b00800000000000000
+      internalID: 813967619594115847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_18
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1170
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d64d97d6464bd50800000000000000
+      internalID: 6752132162693393753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_19
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1170
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870c1fc09ed8f8910800000000000000
+      internalID: 1841846804701888632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 603
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d645fbed8e913b80800000000000000
+      internalID: -8416771896192448815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_21
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 603
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b72a546004c13900800000000000000
+      internalID: 662526126162847665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_22
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 603
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed61272f3807cb3d0800000000000000
+      internalID: -3189550724074563874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_23
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 603
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a8f289585f3dcb0800000000000000
+      internalID: -4840255220360443351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_24
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 603
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5875134c7409020800000000000000
+      internalID: 2346454313827010036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 18
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546f1034e9fc5dfa0800000000000000
+      internalID: -5776482668396808635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_26
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 18
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd26dc00cb6fdcb0800000000000000
+      internalID: -4837029002179367439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_27
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 18
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2487c6534768af0800000000000000
+      internalID: -394500144546430219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_28
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 18
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b711a120d605c72a0800000000000000
+      internalID: -6738422513336184453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housesCity_29
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 18
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0481c7eda7cf688a0800000000000000
+      internalID: -6303073023809546176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

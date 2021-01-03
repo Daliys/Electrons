@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: f35e64614472a3d4c97b441474f0ad37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7552144041110684453
+    second: Standart (Animation Run)124x217_0
+  - first:
+      213: -2281917456054114168
+    second: Standart (Animation Run)124x217_1
+  - first:
+      213: -3975250248447689406
+    second: Standart (Animation Run)124x217_2
+  - first:
+      213: 8451964596228290184
+    second: Standart (Animation Run)124x217_3
+  - first:
+      213: 5005311443181670897
+    second: Standart (Animation Run)124x217_4
+  - first:
+      213: 7892981124209228542
+    second: Standart (Animation Run)124x217_5
+  - first:
+      213: 821126494543381920
+    second: Standart (Animation Run)124x217_6
+  - first:
+      213: 3689085579604109299
+    second: Standart (Animation Run)124x217_7
+  - first:
+      213: 1197020921317194173
+    second: Standart (Animation Run)124x217_8
+  - first:
+      213: 8887048102896601768
+    second: Standart (Animation Run)124x217_9
+  - first:
+      213: -8541268881762109082
+    second: Standart (Animation Run)124x217_10
+  - first:
+      213: -6668947107392418840
+    second: Standart (Animation Run)124x217_11
+  - first:
+      213: 9049258138761336633
+    second: Standart (Animation Run)124x217_12
+  - first:
+      213: -1118792691417967909
+    second: Standart (Animation Run)124x217_13
+  - first:
+      213: -11341545459533386
+    second: Standart (Animation Run)124x217_14
+  - first:
+      213: 6587379317800060746
+    second: Standart (Animation Run)124x217_15
+  - first:
+      213: 719206659970147155
+    second: Standart (Animation Run)124x217_16
+  - first:
+      213: -7749149016638445640
+    second: Standart (Animation Run)124x217_17
+  - first:
+      213: 1673104831475469601
+    second: Standart (Animation Run)124x217_18
+  - first:
+      213: 8652459067677716715
+    second: Standart (Animation Run)124x217_19
+  - first:
+      213: 8405783061374536998
+    second: Standart (Animation Run)124x217_20
+  - first:
+      213: 5869493585806012152
+    second: Standart (Animation Run)124x217_21
+  - first:
+      213: -8851967635412599712
+    second: Standart (Animation Run)124x217_22
+  - first:
+      213: 4057825811895794067
+    second: Standart (Animation Run)124x217_23
+  - first:
+      213: -5788355884340835632
+    second: Standart (Animation Run)124x217_24
+  - first:
+      213: 2286021968448074418
+    second: Standart (Animation Run)124x217_25
+  - first:
+      213: -7149107169208969259
+    second: Standart (Animation Run)124x217_26
+  - first:
+      213: -8560070721492969635
+    second: Standart (Animation Run)124x217_27
+  - first:
+      213: 486443671611739580
+    second: Standart (Animation Run)124x217_28
+  - first:
+      213: -2777385482883719134
+    second: Standart (Animation Run)124x217_29
+  - first:
+      213: -2833363351458706035
+    second: Standart (Animation Run)124x217_30
+  - first:
+      213: -828264677524695638
+    second: Standart (Animation Run)124x217_31
+  - first:
+      213: 7718276374442968135
+    second: Standart (Animation Run)124x217_32
+  - first:
+      213: -1859473110777790539
+    second: Standart (Animation Run)124x217_33
+  - first:
+      213: -4824262387596198839
+    second: Standart (Animation Run)124x217_34
+  - first:
+      213: -8632389789570977309
+    second: Standart (Animation Run)124x217_35
+  - first:
+      213: 621589646538516863
+    second: Standart (Animation Run)124x217_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5234cfe0efa9ec860800000000000000
+      internalID: 7552144041110684453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1302
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888a121f9200550e0800000000000000
+      internalID: -2281917456054114168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1302
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dfdf7f5f215d8c0800000000000000
+      internalID: -3975250248447689406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1302
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8867d5415096b4570800000000000000
+      internalID: 8451964596228290184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1302
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f19a010d30767540800000000000000
+      internalID: 5005311443181670897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1302
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaba5f7380898d60800000000000000
+      internalID: 7892981124209228542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1085
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a58bee323a356b00800000000000000
+      internalID: 821126494543381920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1085
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7a15ef9c3423330800000000000000
+      internalID: 3689085579604109299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1085
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db972d39f2cac9010800000000000000
+      internalID: 1197020921317194173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1085
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa06faf923255b70800000000000000
+      internalID: 8887048102896601768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1085
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669b873a431577980800000000000000
+      internalID: -8541268881762109082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_11
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1085
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb810e70f32373a0800000000000000
+      internalID: -6668947107392418840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9379ea9055c659d70800000000000000
+      internalID: 9049258138761336633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 868
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd29aba89ff3970f0800000000000000
+      internalID: -1118792691417967909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 868
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b93eabace4b7dff0800000000000000
+      internalID: -11341545459533386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_15
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 868
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a474a3e86921b6b50800000000000000
+      internalID: 6587379317800060746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 868
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353ad9f85a22bf900800000000000000
+      internalID: 719206659970147155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_17
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 868
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7a2bfa60e757490800000000000000
+      internalID: -7749149016638445640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dc510daff083710800000000000000
+      internalID: 1673104831475469601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_19
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 651
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0b98aeda5b31870800000000000000
+      internalID: 8652459067677716715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_20
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 651
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d8938982757a470800000000000000
+      internalID: 8405783061374536998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 651
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fea6618151a47150800000000000000
+      internalID: 5869493585806012152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_22
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 651
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c3af7d55e772580800000000000000
+      internalID: -8851967635412599712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_23
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 651
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399b57e931b405830800000000000000
+      internalID: 4057825811895794067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da8250cdf0abafa0800000000000000
+      internalID: -5788355884340835632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 434
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b236125ed499bf10800000000000000
+      internalID: 2286021968448074418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 434
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7d91e38e449cc90800000000000000
+      internalID: -7149107169208969259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_27
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 434
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5790313805843980800000000000000
+      internalID: -8560070721492969635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 434
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd87a921f130c600800000000000000
+      internalID: 486443671611739580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_29
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 434
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220a3685e9eb479d0800000000000000
+      internalID: -2777385482883719134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d81bc2b0fdda8d0800000000000000
+      internalID: -2833363351458706035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 217
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa513240aa96184f0800000000000000
+      internalID: -828264677524695638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_32
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 217
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74486f82873dc1b60800000000000000
+      internalID: 7718276374442968135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 217
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bff2b2ce03d136e0800000000000000
+      internalID: -1859473110777790539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_34
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 217
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cfc042be6cc0db0800000000000000
+      internalID: -4824262387596198839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_35
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 217
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1b9e50937933880800000000000000
+      internalID: -8632389789570977309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Run)124x217_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 124
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f792dfd7d7450a800800000000000000
+      internalID: 621589646538516863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

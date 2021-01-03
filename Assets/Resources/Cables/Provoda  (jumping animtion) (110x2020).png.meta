@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: fddb8247ed87d8543b01adcbf1cfbf88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1472021513679771370
+    second: Provoda  (jumping animtion) (110x2020)_0
+  - first:
+      213: -3556738316389576364
+    second: Provoda  (jumping animtion) (110x2020)_1
+  - first:
+      213: 8502026749621102302
+    second: Provoda  (jumping animtion) (110x2020)_2
+  - first:
+      213: -4286494450534721794
+    second: Provoda  (jumping animtion) (110x2020)_3
+  - first:
+      213: 3322145595810159716
+    second: Provoda  (jumping animtion) (110x2020)_4
+  - first:
+      213: -145906633810734715
+    second: Provoda  (jumping animtion) (110x2020)_5
+  - first:
+      213: -3841464294606280949
+    second: Provoda  (jumping animtion) (110x2020)_6
+  - first:
+      213: -5622017789655036177
+    second: Provoda  (jumping animtion) (110x2020)_7
+  - first:
+      213: -3545490324759296534
+    second: Provoda  (jumping animtion) (110x2020)_8
+  - first:
+      213: 3879782492623816928
+    second: Provoda  (jumping animtion) (110x2020)_9
+  - first:
+      213: -5361706425662385604
+    second: Provoda  (jumping animtion) (110x2020)_10
+  - first:
+      213: -3708015634763817438
+    second: Provoda  (jumping animtion) (110x2020)_11
+  - first:
+      213: 4997589209413660146
+    second: Provoda  (jumping animtion) (110x2020)_12
+  - first:
+      213: 4412559205581819851
+    second: Provoda  (jumping animtion) (110x2020)_13
+  - first:
+      213: 6373945166983353372
+    second: Provoda  (jumping animtion) (110x2020)_14
+  - first:
+      213: -6227217039278755688
+    second: Provoda  (jumping animtion) (110x2020)_15
+  - first:
+      213: 7139789120044822256
+    second: Provoda  (jumping animtion) (110x2020)_16
+  - first:
+      213: 1409812056992406354
+    second: Provoda  (jumping animtion) (110x2020)_17
+  - first:
+      213: 4098392990849874850
+    second: Provoda  (jumping animtion) (110x2020)_18
+  - first:
+      213: -4688742732493664710
+    second: Provoda  (jumping animtion) (110x2020)_19
+  - first:
+      213: -821866521953423678
+    second: Provoda  (jumping animtion) (110x2020)_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 33
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae69d9084cbad6410800000000000000
+      internalID: 1472021513679771370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 40
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451149c785de3aec0800000000000000
+      internalID: -3556738316389576364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 46
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6e80a78444df570800000000000000
+      internalID: 8502026749621102302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 53
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d13012005384c0800000000000000
+      internalID: -4286494450534721794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_4
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 60
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c946261d1aa1e20800000000000000
+      internalID: 3322145595810159716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_5
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 67
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581965980b2a9fdf0800000000000000
+      internalID: -145906633810734715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_6
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 0
+        width: 72
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0765a6b39060bac0800000000000000
+      internalID: -3841464294606280949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_7
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 63
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee4fa66b949af1b0800000000000000
+      internalID: -5622017789655036177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_8
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 0
+        width: 53
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5432e9553ebcec0800000000000000
+      internalID: -3545490324759296534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_9
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 0
+        width: 44
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e84f9efe91c7d530800000000000000
+      internalID: 3879782492623816928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_10
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 0
+        width: 33
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32d674d9646795b0800000000000000
+      internalID: -5361706425662385604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_11
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 0
+        width: 43
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ede441d6b7a8cc0800000000000000
+      internalID: -3708015634763817438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_12
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 0
+        width: 54
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd2d6858e00b5540800000000000000
+      internalID: 4997589209413660146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_13
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 0
+        width: 50
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf851ff73f8c3d30800000000000000
+      internalID: 4412559205581819851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_14
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 0
+        width: 46
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c145cd7db5dc47850800000000000000
+      internalID: 6373945166983353372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_15
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 0
+        width: 43
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890b782981b7499a0800000000000000
+      internalID: -6227217039278755688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_16
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 39
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe687f5060a51360800000000000000
+      internalID: 7139789120044822256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_17
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 0
+        width: 36
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b5819a898a09310800000000000000
+      internalID: 1409812056992406354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_18
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 0
+        width: 33
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abbe8106ba60e830800000000000000
+      internalID: 4098392990849874850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_19
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 0
+        width: 33
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e458aa35d3eeeb0800000000000000
+      internalID: -4688742732493664710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Provoda  (jumping animtion) (110x2020)_20
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 0
+        width: 33
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce2e22b0c42894f0800000000000000
+      internalID: -821866521953423678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

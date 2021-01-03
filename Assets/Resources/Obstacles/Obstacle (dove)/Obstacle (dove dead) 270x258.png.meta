@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 53796974c3ea831409843d5e08f44d6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2014655968134919988
+    second: Obstacle (dove dead) 270x258_0
+  - first:
+      213: -3470986467705930216
+    second: Obstacle (dove dead) 270x258_1
+  - first:
+      213: 3943919389151142075
+    second: Obstacle (dove dead) 270x258_2
+  - first:
+      213: 6909462595935163880
+    second: Obstacle (dove dead) 270x258_3
+  - first:
+      213: 2384163402063478481
+    second: Obstacle (dove dead) 270x258_4
+  - first:
+      213: 8745026007035600693
+    second: Obstacle (dove dead) 270x258_5
+  - first:
+      213: -7562681920122621433
+    second: Obstacle (dove dead) 270x258_6
+  - first:
+      213: 1447242195160615670
+    second: Obstacle (dove dead) 270x258_7
+  - first:
+      213: 9108123522705651250
+    second: Obstacle (dove dead) 270x258_8
+  - first:
+      213: -4580610731049859618
+    second: Obstacle (dove dead) 270x258_9
+  - first:
+      213: 834615435523743157
+    second: Obstacle (dove dead) 270x258_10
+  - first:
+      213: -3386191893227202893
+    second: Obstacle (dove dead) 270x258_11
+  - first:
+      213: 6218813367883514769
+    second: Obstacle (dove dead) 270x258_12
+  - first:
+      213: -7104463015361622353
+    second: Obstacle (dove dead) 270x258_13
+  - first:
+      213: -7939437453750655781
+    second: Obstacle (dove dead) 270x258_14
+  - first:
+      213: -6570626444561121510
+    second: Obstacle (dove dead) 270x258_15
+  - first:
+      213: -8157267424441857093
+    second: Obstacle (dove dead) 270x258_16
+  - first:
+      213: 7811332941391491128
+    second: Obstacle (dove dead) 270x258_17
+  - first:
+      213: -4922242003799183516
+    second: Obstacle (dove dead) 270x258_18
+  - first:
+      213: -3656051642218723691
+    second: Obstacle (dove dead) 270x258_19
+  - first:
+      213: -7317383256702801765
+    second: Obstacle (dove dead) 270x258_20
+  - first:
+      213: -3511326907938119376
+    second: Obstacle (dove dead) 270x258_21
+  - first:
+      213: -3485323321003827539
+    second: Obstacle (dove dead) 270x258_22
+  - first:
+      213: 1308848686266641268
+    second: Obstacle (dove dead) 270x258_23
+  - first:
+      213: -8357070521748219024
+    second: Obstacle (dove dead) 270x258_24
+  - first:
+      213: -8192419413439389155
+    second: Obstacle (dove dead) 270x258_25
+  - first:
+      213: 1112498740523382478
+    second: Obstacle (dove dead) 270x258_26
+  - first:
+      213: -3957394197564759626
+    second: Obstacle (dove dead) 270x258_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1314
+        width: 228
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc882b232118a04e0800000000000000
+      internalID: -2014655968134919988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1309
+        width: 228
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e333c923494dfc0800000000000000
+      internalID: -3470986467705930216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_2
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1309
+        width: 228
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb02125e9cd9bb630800000000000000
+      internalID: 3943919389151142075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_3
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1309
+        width: 228
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e550938f9753ef50800000000000000
+      internalID: 6909462595935163880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1309
+        width: 241
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1defa7a7bff361120800000000000000
+      internalID: 2384163402063478481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1051
+        width: 241
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fd8ecf1d29c5970800000000000000
+      internalID: 8745026007035600693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1051
+        width: 241
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70272d9ccd4fb0790800000000000000
+      internalID: -7562681920122621433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1051
+        width: 247
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa4182db13a51410800000000000000
+      internalID: 1447242195160615670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_8
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1051
+        width: 247
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236ff35461e866e70800000000000000
+      internalID: 9108123522705651250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_9
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1051
+        width: 247
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed54e692fc66e60c0800000000000000
+      internalID: -4580610731049859618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 793
+        width: 247
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd537e0156259b00800000000000000
+      internalID: 834615435523743157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 793
+        width: 247
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b692e6f964d101d0800000000000000
+      internalID: -3386191893227202893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 793
+        width: 247
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193c5253fc9ad4650800000000000000
+      internalID: 6218813367883514769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_13
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 793
+        width: 241
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae48715780e76d90800000000000000
+      internalID: -7104463015361622353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_14
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 793
+        width: 241
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4a2c463b371d190800000000000000
+      internalID: -7939437453750655781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 241
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f7524bf0270d4a0800000000000000
+      internalID: -6570626444561121510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 535
+        width: 247
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb074c1f709bce80800000000000000
+      internalID: -8157267424441857093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 535
+        width: 247
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83072f98ced676c60800000000000000
+      internalID: 7811332941391491128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_18
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 535
+        width: 247
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fea090afea0bbb0800000000000000
+      internalID: -4922242003799183516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_19
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 535
+        width: 247
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596c119e668134dc0800000000000000
+      internalID: -3656051642218723691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 247
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98a6da72be637a90800000000000000
+      internalID: -7317383256702801765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 277
+        width: 247
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031e312f7c2454fc0800000000000000
+      internalID: -3511326907938119376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 277
+        width: 241
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae9e24d7e4a1afc0800000000000000
+      internalID: -3485323321003827539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 277
+        width: 241
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47be8a112f6f92210800000000000000
+      internalID: 1308848686266641268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_24
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 277
+        width: 241
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b1f4c53a8b50c80800000000000000
+      internalID: -8357070521748219024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 241
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d126ee2e2fdae4e80800000000000000
+      internalID: -8192419413439389155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 20
+        width: 241
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec637f1d5b3607f00800000000000000
+      internalID: 1112498740523382478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove dead) 270x258_27
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 20
+        width: 241
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1e5f9c1f28419c0800000000000000
+      internalID: -3957394197564759626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

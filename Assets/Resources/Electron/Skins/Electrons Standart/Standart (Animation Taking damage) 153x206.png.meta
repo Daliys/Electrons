@@ -1,0 +1,859 @@
+fileFormatVersion: 2
+guid: cc802b43740b3f54ca3aa5d469df47b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6995145107295728391
+    second: Standart (Animation Taking damage) 153x206_0
+  - first:
+      213: -8674629085384925016
+    second: Standart (Animation Taking damage) 153x206_1
+  - first:
+      213: -1725446147799724296
+    second: Standart (Animation Taking damage) 153x206_2
+  - first:
+      213: -5359781316718330300
+    second: Standart (Animation Taking damage) 153x206_3
+  - first:
+      213: 5922646647893702692
+    second: Standart (Animation Taking damage) 153x206_4
+  - first:
+      213: -7731192796974029108
+    second: Standart (Animation Taking damage) 153x206_5
+  - first:
+      213: 3148974145657798511
+    second: Standart (Animation Taking damage) 153x206_6
+  - first:
+      213: 5093237639509190759
+    second: Standart (Animation Taking damage) 153x206_7
+  - first:
+      213: 9132543431101977356
+    second: Standart (Animation Taking damage) 153x206_8
+  - first:
+      213: 2891468708306972209
+    second: Standart (Animation Taking damage) 153x206_9
+  - first:
+      213: 4479516848908565493
+    second: Standart (Animation Taking damage) 153x206_10
+  - first:
+      213: 8227759019648017007
+    second: Standart (Animation Taking damage) 153x206_11
+  - first:
+      213: -158940878339585998
+    second: Standart (Animation Taking damage) 153x206_12
+  - first:
+      213: -3498940130111907009
+    second: Standart (Animation Taking damage) 153x206_13
+  - first:
+      213: -8308368057090378838
+    second: Standart (Animation Taking damage) 153x206_14
+  - first:
+      213: 1111455035598259850
+    second: Standart (Animation Taking damage) 153x206_15
+  - first:
+      213: -521033976342028655
+    second: Standart (Animation Taking damage) 153x206_16
+  - first:
+      213: 4259615781553447800
+    second: Standart (Animation Taking damage) 153x206_17
+  - first:
+      213: -8138903422998076790
+    second: Standart (Animation Taking damage) 153x206_18
+  - first:
+      213: 2370207550142882763
+    second: Standart (Animation Taking damage) 153x206_19
+  - first:
+      213: 3057605076150814911
+    second: Standart (Animation Taking damage) 153x206_20
+  - first:
+      213: -206174355712444118
+    second: Standart (Animation Taking damage) 153x206_21
+  - first:
+      213: -5321245536429447485
+    second: Standart (Animation Taking damage) 153x206_22
+  - first:
+      213: 4489217504535679832
+    second: Standart (Animation Taking damage) 153x206_23
+  - first:
+      213: 2140889665975997217
+    second: Standart (Animation Taking damage) 153x206_24
+  - first:
+      213: -7646149679575823576
+    second: Standart (Animation Taking damage) 153x206_25
+  - first:
+      213: -6046765676390844048
+    second: Standart (Animation Taking damage) 153x206_26
+  - first:
+      213: -8213984367487015440
+    second: Standart (Animation Taking damage) 153x206_27
+  - first:
+      213: 3705877928803204987
+    second: Standart (Animation Taking damage) 153x206_28
+  - first:
+      213: -6348329936123899035
+    second: Standart (Animation Taking damage) 153x206_29
+  - first:
+      213: -7903156819511672374
+    second: Standart (Animation Taking damage) 153x206_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1030
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7037ca8c96fb31160800000000000000
+      internalID: 6995145107295728391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1030
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a02c579ec68d9780800000000000000
+      internalID: -8674629085384925016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1030
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fec451dedbfd08e0800000000000000
+      internalID: -1725446147799724296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1030
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e7a3f2a4b3e95b0800000000000000
+      internalID: -5359781316718330300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1030
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428bcd92fb7713250800000000000000
+      internalID: 5922646647893702692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1030
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6ed4edc1945b490800000000000000
+      internalID: -7731192796974029108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f72de2d4763bb20800000000000000
+      internalID: 3148974145657798511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 824
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7682893e5a0dea640800000000000000
+      internalID: 5093237639509190759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 824
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0319a24ddf4dbe70800000000000000
+      internalID: 9132543431101977356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 824
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e6bc5787f802820800000000000000
+      internalID: 2891468708306972209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 824
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb729037d07a2e30800000000000000
+      internalID: 4479516848908565493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_11
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 824
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62e2af5c3fde2270800000000000000
+      internalID: 8227759019648017007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238c74efc145bcdf0800000000000000
+      internalID: -158940878339585998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 618
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b12566d74417fc0800000000000000
+      internalID: -3498940130111907009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 618
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3fced854fb2bc80800000000000000
+      internalID: -8308368057090378838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 618
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8647a4577eac6f00800000000000000
+      internalID: 1111455035598259850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 618
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e593ceb5ae4c8f0800000000000000
+      internalID: -521033976342028655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_17
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 618
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87324232cf13d1b30800000000000000
+      internalID: 4259615781553447800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a822df2657ecc0f80800000000000000
+      internalID: -8138903422998076790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 412
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3273e753ba4e020800000000000000
+      internalID: 2370207550142882763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 412
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8866bed9bce6a20800000000000000
+      internalID: 3057605076150814911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 412
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29f6fd0485832df0800000000000000
+      internalID: -206174355712444118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 412
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c66d76b0632726b0800000000000000
+      internalID: -5321245536429447485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_23
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 412
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85390551987ec4e30800000000000000
+      internalID: 4489217504535679832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123ddcbeec7f5bd10800000000000000
+      internalID: 2140889665975997217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 206
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b8a61a06b63e590800000000000000
+      internalID: -7646149679575823576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 206
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079f2ba87a2951ca0800000000000000
+      internalID: -6046765676390844048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 206
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f52351ccb0120e80800000000000000
+      internalID: -8213984367487015440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_28
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 206
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f7647775ced6330800000000000000
+      internalID: 3705877928803204987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_29
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 206
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5635b58de8336e7a0800000000000000
+      internalID: -6348329936123899035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standart (Animation Taking damage) 153x206_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 153
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac10dc0deb8525290800000000000000
+      internalID: -7903156819511672374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

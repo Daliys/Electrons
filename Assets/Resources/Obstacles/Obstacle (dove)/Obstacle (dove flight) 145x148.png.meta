@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: dce3df76091b47e4a8374d5f8ead35c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1274985694943938839
+    second: Obstacle (dove flight) 145x148_0
+  - first:
+      213: -4469205320821494008
+    second: Obstacle (dove flight) 145x148_1
+  - first:
+      213: -5655458188824508617
+    second: Obstacle (dove flight) 145x148_2
+  - first:
+      213: 2024298170313317729
+    second: Obstacle (dove flight) 145x148_3
+  - first:
+      213: 8857848447225110295
+    second: Obstacle (dove flight) 145x148_4
+  - first:
+      213: 4123828952755971562
+    second: Obstacle (dove flight) 145x148_5
+  - first:
+      213: 3618918398916263007
+    second: Obstacle (dove flight) 145x148_6
+  - first:
+      213: 8931413356435017211
+    second: Obstacle (dove flight) 145x148_7
+  - first:
+      213: -2014369295709559245
+    second: Obstacle (dove flight) 145x148_8
+  - first:
+      213: 8181747087178398045
+    second: Obstacle (dove flight) 145x148_9
+  - first:
+      213: -2261201778466912028
+    second: Obstacle (dove flight) 145x148_10
+  - first:
+      213: 5494724911353943055
+    second: Obstacle (dove flight) 145x148_11
+  - first:
+      213: -8989042986047723430
+    second: Obstacle (dove flight) 145x148_12
+  - first:
+      213: -5830927484731211603
+    second: Obstacle (dove flight) 145x148_13
+  - first:
+      213: 686392487388650471
+    second: Obstacle (dove flight) 145x148_14
+  - first:
+      213: 5858614657278689926
+    second: Obstacle (dove flight) 145x148_15
+  - first:
+      213: 7717612080170042930
+    second: Obstacle (dove flight) 145x148_16
+  - first:
+      213: 351864006851018057
+    second: Obstacle (dove flight) 145x148_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 145
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6792ff3475e4ee0800000000000000
+      internalID: -1274985694943938839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 445
+        width: 145
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f262880713af1c0800000000000000
+      internalID: -4469205320821494008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 448
+        width: 145
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7378a0dbdb6c381b0800000000000000
+      internalID: -5655458188824508617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 451
+        width: 145
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d9ff0f570c71c10800000000000000
+      internalID: 2024298170313317729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 454
+        width: 145
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f191b5b366dea70800000000000000
+      internalID: 8857848447225110295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 145
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5ad736598ca3930800000000000000
+      internalID: 4123828952755971562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 309
+        width: 145
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c77862c1bf83230800000000000000
+      internalID: 3618918398916263007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 312
+        width: 145
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd0d748021c2fb70800000000000000
+      internalID: 8931413356435017211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_8
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 312
+        width: 145
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33627c25cc58b04e0800000000000000
+      internalID: -2014369295709559245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_9
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 312
+        width: 145
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59fa5580a76b8170800000000000000
+      internalID: 8181747087178398045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e88ffc76f89e90e0800000000000000
+      internalID: -2261201778466912028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 163
+        width: 145
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04ddbfc13f214c40800000000000000
+      internalID: 5494724911353943055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 163
+        width: 145
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58a8e9b701804380800000000000000
+      internalID: -8989042986047723430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_13
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 162
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0c881a852641fa0800000000000000
+      internalID: -5830927484731211603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 159
+        width: 145
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb1c43a45e868900800000000000000
+      internalID: 686392487388650471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6824ef29dfafd4150800000000000000
+      internalID: 5858614657278689926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2368cc81c477a1b60800000000000000
+      internalID: 7717612080170042930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove flight) 145x148_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94db991337212e400800000000000000
+      internalID: 351864006851018057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

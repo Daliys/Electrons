@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: 9779eef4042310544a1ceeefeba2be33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3147501657611460599
+    second: Obstacle (dove Idle) 147x119_0
+  - first:
+      213: 5188827369651765378
+    second: Obstacle (dove Idle) 147x119_1
+  - first:
+      213: -6293496928546167879
+    second: Obstacle (dove Idle) 147x119_2
+  - first:
+      213: -7893811608240792496
+    second: Obstacle (dove Idle) 147x119_3
+  - first:
+      213: 2302096019368363654
+    second: Obstacle (dove Idle) 147x119_4
+  - first:
+      213: 1709783863573159205
+    second: Obstacle (dove Idle) 147x119_5
+  - first:
+      213: 8157897311358485359
+    second: Obstacle (dove Idle) 147x119_6
+  - first:
+      213: -6560258807538648732
+    second: Obstacle (dove Idle) 147x119_7
+  - first:
+      213: -1394817502336885373
+    second: Obstacle (dove Idle) 147x119_8
+  - first:
+      213: -2172732138470672972
+    second: Obstacle (dove Idle) 147x119_9
+  - first:
+      213: -8708185715874931893
+    second: Obstacle (dove Idle) 147x119_10
+  - first:
+      213: -2599873834554306220
+    second: Obstacle (dove Idle) 147x119_11
+  - first:
+      213: -2972144369004424273
+    second: Obstacle (dove Idle) 147x119_12
+  - first:
+      213: -7201785595129137860
+    second: Obstacle (dove Idle) 147x119_13
+  - first:
+      213: 4447984327975236065
+    second: Obstacle (dove Idle) 147x119_14
+  - first:
+      213: -5699599705235855109
+    second: Obstacle (dove Idle) 147x119_15
+  - first:
+      213: 5312766215945350838
+    second: Obstacle (dove Idle) 147x119_16
+  - first:
+      213: 7629987130761934121
+    second: Obstacle (dove Idle) 147x119_17
+  - first:
+      213: -6377177652102792224
+    second: Obstacle (dove Idle) 147x119_18
+  - first:
+      213: 7636880030412581835
+    second: Obstacle (dove Idle) 147x119_19
+  - first:
+      213: -4675724714371037134
+    second: Obstacle (dove Idle) 147x119_20
+  - first:
+      213: -4008632512600605063
+    second: Obstacle (dove Idle) 147x119_21
+  - first:
+      213: -2945964070170937669
+    second: Obstacle (dove Idle) 147x119_22
+  - first:
+      213: 3570726933784699752
+    second: Obstacle (dove Idle) 147x119_23
+  - first:
+      213: 1273395659432693371
+    second: Obstacle (dove Idle) 147x119_24
+  - first:
+      213: -6241582972383479640
+    second: Obstacle (dove Idle) 147x119_25
+  - first:
+      213: -3165446880488443467
+    second: Obstacle (dove Idle) 147x119_26
+  - first:
+      213: -6660851857231043455
+    second: Obstacle (dove Idle) 147x119_27
+  - first:
+      213: -4234795456201237380
+    second: Obstacle (dove Idle) 147x119_28
+  - first:
+      213: -3024416907127715883
+    second: Obstacle (dove Idle) 147x119_29
+  - first:
+      213: 6211195510925792026
+    second: Obstacle (dove Idle) 147x119_30
+  - first:
+      213: -9031363391282770293
+    second: Obstacle (dove Idle) 147x119_31
+  - first:
+      213: -1559990333865981110
+    second: Obstacle (dove Idle) 147x119_32
+  - first:
+      213: 2319930076624249600
+    second: Obstacle (dove Idle) 147x119_33
+  - first:
+      213: 6297676706947307007
+    second: Obstacle (dove Idle) 147x119_34
+  - first:
+      213: -3776417821358556476
+    second: Obstacle (dove Idle) 147x119_35
+  - first:
+      213: -5588836811702200479
+    second: Obstacle (dove Idle) 147x119_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 145
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff52e7d41c2eab20800000000000000
+      internalID: 3147501657611460599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 714
+        width: 145
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2800be8400b620840800000000000000
+      internalID: 5188827369651765378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 714
+        width: 145
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b36efa43e109a8a0800000000000000
+      internalID: -6293496928546167879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 714
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cd3fe5a2c837290800000000000000
+      internalID: -7893811608240792496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 714
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686ca41f120b2ff10800000000000000
+      internalID: 2302096019368363654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 714
+        width: 146
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d19f67d5f5ab710800000000000000
+      internalID: 1709783863573159205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 146
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6303add16ca63170800000000000000
+      internalID: 8157897311358485359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 595
+        width: 146
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469f70e4f5745f4a0800000000000000
+      internalID: -6560258807538648732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 595
+        width: 146
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d56b62fdc94ace0800000000000000
+      internalID: -1394817502336885373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 595
+        width: 146
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b57166b1a7e8d1e0800000000000000
+      internalID: -2172732138470672972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_10
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 595
+        width: 147
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bd427ba3f462780800000000000000
+      internalID: -8708185715874931893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 595
+        width: 147
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451de8ea5846bebd0800000000000000
+      internalID: -2599873834554306220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 147
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa350588172d0c6d0800000000000000
+      internalID: -2972144369004424273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 476
+        width: 147
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c357dcd682e1e0c90800000000000000
+      internalID: -7201785595129137860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 476
+        width: 147
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1f77b0e2a6abd30800000000000000
+      internalID: 4447984327975236065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 476
+        width: 147
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8ee7f0444f6e0b0800000000000000
+      internalID: -5699599705235855109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_16
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 476
+        width: 147
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be6e14a9bcbab940800000000000000
+      internalID: 5312766215945350838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_17
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 476
+        width: 147
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925fdd9bed823e960800000000000000
+      internalID: 7629987130761934121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 147
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb7ad096b6bf77a0800000000000000
+      internalID: -6377177652102792224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 357
+        width: 147
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb240dfce5abf960800000000000000
+      internalID: 7636880030412581835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 357
+        width: 147
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2384664352d7c1fb0800000000000000
+      internalID: -4675724714371037134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 357
+        width: 147
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97efb5be7f97e58c0800000000000000
+      internalID: -4008632512600605063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 357
+        width: 147
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6b56c5945dd17d0800000000000000
+      internalID: -2945964070170937669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_23
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 357
+        width: 147
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863282e4a35cd8130800000000000000
+      internalID: 3570726933784699752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 147
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e82030b920ca110800000000000000
+      internalID: 1273395659432693371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 238
+        width: 146
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8b4fe1b517169a0800000000000000
+      internalID: -6241582972383479640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_26
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 238
+        width: 146
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b13e1d55d21214d0800000000000000
+      internalID: -3165446880488443467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 238
+        width: 146
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1842e3cc686ef83a0800000000000000
+      internalID: -6660851857231043455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_28
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 238
+        width: 146
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cdfa038fbfa35c0800000000000000
+      internalID: -4234795456201237380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_29
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 238
+        width: 146
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d787f5d8dc1706d0800000000000000
+      internalID: -3024416907127715883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 146
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a139b3ba869923650800000000000000
+      internalID: 6211195510925792026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 119
+        width: 146
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e8f1988d62aa280800000000000000
+      internalID: -9031363391282770293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_32
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 119
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b00e87e0dc95ae0800000000000000
+      internalID: -1559990333865981110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_33
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 119
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003eee8fc1c023020800000000000000
+      internalID: 2319930076624249600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_34
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 119
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff598d33997d56750800000000000000
+      internalID: 6297676706947307007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_35
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 119
+        width: 145
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caf772fff7779bc0800000000000000
+      internalID: -3776417821358556476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstacle (dove Idle) 147x119_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 145
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1671ddad7867072b0800000000000000
+      internalID: -5588836811702200479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

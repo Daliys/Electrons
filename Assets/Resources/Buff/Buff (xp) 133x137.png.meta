@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 2fab5f38811a0e04bafb2952861eb56f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1309331346967916408
+    second: Buff (xp) 133x137_0
+  - first:
+      213: 8727830559834186195
+    second: Buff (xp) 133x137_1
+  - first:
+      213: -8655731887836322558
+    second: Buff (xp) 133x137_2
+  - first:
+      213: -8073506841128416207
+    second: Buff (xp) 133x137_3
+  - first:
+      213: 1298599097247189780
+    second: Buff (xp) 133x137_4
+  - first:
+      213: 7313135890781917179
+    second: Buff (xp) 133x137_5
+  - first:
+      213: -3336189048760437096
+    second: Buff (xp) 133x137_6
+  - first:
+      213: 6433676892784334885
+    second: Buff (xp) 133x137_7
+  - first:
+      213: -3776348562636740153
+    second: Buff (xp) 133x137_8
+  - first:
+      213: -7904789384018745697
+    second: Buff (xp) 133x137_9
+  - first:
+      213: 7049292152485710161
+    second: Buff (xp) 133x137_10
+  - first:
+      213: -8766069594366128763
+    second: Buff (xp) 133x137_11
+  - first:
+      213: -8526103061607496833
+    second: Buff (xp) 133x137_12
+  - first:
+      213: 8297768283774858022
+    second: Buff (xp) 133x137_13
+  - first:
+      213: -1556250087035844940
+    second: Buff (xp) 133x137_14
+  - first:
+      213: -5504841203236912299
+    second: Buff (xp) 133x137_15
+  - first:
+      213: 8547300972252107348
+    second: Buff (xp) 133x137_16
+  - first:
+      213: 8353216628927263420
+    second: Buff (xp) 133x137_17
+  - first:
+      213: 4677262436485929812
+    second: Buff (xp) 133x137_18
+  - first:
+      213: -2593841717673156357
+    second: Buff (xp) 133x137_19
+  - first:
+      213: -4680763457143630314
+    second: Buff (xp) 133x137_20
+  - first:
+      213: -5112814085133469964
+    second: Buff (xp) 133x137_21
+  - first:
+      213: -7173472297295542862
+    second: Buff (xp) 133x137_22
+  - first:
+      213: -6836506691745665536
+    second: Buff (xp) 133x137_23
+  - first:
+      213: -5803771268034431211
+    second: Buff (xp) 133x137_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f6e454cedab2210800000000000000
+      internalID: 1309331346967916408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 548
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d127b2f6ab7f1970800000000000000
+      internalID: 8727830559834186195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 548
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205ae7245b9a0e780800000000000000
+      internalID: -8655731887836322558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 548
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ccad2ad4425ff80800000000000000
+      internalID: -8073506841128416207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 548
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bcf09affc850210800000000000000
+      internalID: 1298599097247189780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff4734985a7d7560800000000000000
+      internalID: 7313135890781917179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 411
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896f51d6cb973b1d0800000000000000
+      internalID: -3336189048760437096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 411
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5289c020c03094950800000000000000
+      internalID: 6433676892784334885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 411
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9eaff7df6b79bc0800000000000000
+      internalID: -3776348562636740153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_9
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 411
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96a845cfeb8c4290800000000000000
+      internalID: -7904789384018745697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1590cda2ddd14d160800000000000000
+      internalID: 7049292152485710161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 274
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d4477062aa85680800000000000000
+      internalID: -8766069594366128763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 274
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73c38e40723da980800000000000000
+      internalID: -8526103061607496833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 274
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62337e66a48972370800000000000000
+      internalID: 8297768283774858022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_14
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 274
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6ce8c8ac6176ae0800000000000000
+      internalID: -1556250087035844940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55341207710ea93b0800000000000000
+      internalID: -5504841203236912299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 137
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452107fd2fc1e9670800000000000000
+      internalID: 8547300972252107348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 137
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2781b44469ce370800000000000000
+      internalID: 8353216628927263420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_18
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 137
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b9500a769f8e040800000000000000
+      internalID: 4677262436485929812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_19
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 137
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0a08653b2d00cd0800000000000000
+      internalID: -2593841717673156357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616135b7f669a0fb0800000000000000
+      internalID: -4680763457143630314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6710dada2ab09b0800000000000000
+      internalID: -5112814085133469964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b50899c3f4b27c90800000000000000
+      internalID: -7173472297295542862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_23
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e2bed9269df11a0800000000000000
+      internalID: -6836506691745665536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff (xp) 133x137_24
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517703b08ccd47fa0800000000000000
+      internalID: -5803771268034431211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

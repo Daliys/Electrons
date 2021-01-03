@@ -1,0 +1,859 @@
+fileFormatVersion: 2
+guid: 2bcc6bd522398dc49ba64039e8b62c08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7096117692151426187
+    second: Skin 3 (Animation Taking damage)142x204_0
+  - first:
+      213: -352973532145472016
+    second: Skin 3 (Animation Taking damage)142x204_1
+  - first:
+      213: -7672054645677314587
+    second: Skin 3 (Animation Taking damage)142x204_2
+  - first:
+      213: 3752857059663078676
+    second: Skin 3 (Animation Taking damage)142x204_3
+  - first:
+      213: 730293293134870268
+    second: Skin 3 (Animation Taking damage)142x204_4
+  - first:
+      213: -3299283528924985367
+    second: Skin 3 (Animation Taking damage)142x204_5
+  - first:
+      213: -4554143614043156323
+    second: Skin 3 (Animation Taking damage)142x204_6
+  - first:
+      213: -2824134903120129941
+    second: Skin 3 (Animation Taking damage)142x204_7
+  - first:
+      213: -232522325842582984
+    second: Skin 3 (Animation Taking damage)142x204_8
+  - first:
+      213: 4124949584735969235
+    second: Skin 3 (Animation Taking damage)142x204_9
+  - first:
+      213: -401602023677138742
+    second: Skin 3 (Animation Taking damage)142x204_10
+  - first:
+      213: 5947633919273676254
+    second: Skin 3 (Animation Taking damage)142x204_11
+  - first:
+      213: -1886653484068293017
+    second: Skin 3 (Animation Taking damage)142x204_12
+  - first:
+      213: -453021188808082330
+    second: Skin 3 (Animation Taking damage)142x204_13
+  - first:
+      213: -5509202347922688808
+    second: Skin 3 (Animation Taking damage)142x204_14
+  - first:
+      213: 2159516082059069961
+    second: Skin 3 (Animation Taking damage)142x204_15
+  - first:
+      213: 8757607916124885750
+    second: Skin 3 (Animation Taking damage)142x204_16
+  - first:
+      213: -1870829349241834749
+    second: Skin 3 (Animation Taking damage)142x204_17
+  - first:
+      213: -1554166906442625102
+    second: Skin 3 (Animation Taking damage)142x204_18
+  - first:
+      213: 2578188130371981677
+    second: Skin 3 (Animation Taking damage)142x204_19
+  - first:
+      213: -8281297036631273422
+    second: Skin 3 (Animation Taking damage)142x204_20
+  - first:
+      213: -7273306439271251227
+    second: Skin 3 (Animation Taking damage)142x204_21
+  - first:
+      213: 4267601465985359738
+    second: Skin 3 (Animation Taking damage)142x204_22
+  - first:
+      213: -1782012942720400583
+    second: Skin 3 (Animation Taking damage)142x204_23
+  - first:
+      213: 2613067094099810259
+    second: Skin 3 (Animation Taking damage)142x204_24
+  - first:
+      213: -3389368241026145056
+    second: Skin 3 (Animation Taking damage)142x204_25
+  - first:
+      213: 5728884375235064628
+    second: Skin 3 (Animation Taking damage)142x204_26
+  - first:
+      213: -1029448655464976514
+    second: Skin 3 (Animation Taking damage)142x204_27
+  - first:
+      213: -3499646089909992963
+    second: Skin 3 (Animation Taking damage)142x204_28
+  - first:
+      213: -8544933961473313690
+    second: Skin 3 (Animation Taking damage)142x204_29
+  - first:
+      213: -7843660896693482226
+    second: Skin 3 (Animation Taking damage)142x204_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cec05b1797a7260800000000000000
+      internalID: 7096117692151426187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1020
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdaa51517cf91bf0800000000000000
+      internalID: -352973532145472016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1020
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eda403b2f2678590800000000000000
+      internalID: -7672054645677314587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1020
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415e80ebc93d41430800000000000000
+      internalID: 3752857059663078676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1020
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6772f71e5822a00800000000000000
+      internalID: 730293293134870268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1020
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7012d5c179632d0800000000000000
+      internalID: -3299283528924985367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9018dc038e6cc0c0800000000000000
+      internalID: -4554143614043156323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 816
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b601ebdb448aec8d0800000000000000
+      internalID: -2824134903120129941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 816
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8322ec53d2ae5ccf0800000000000000
+      internalID: -232522325842582984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 816
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df159adac3ce3930800000000000000
+      internalID: 4124949584735969235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_10
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 816
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac865a556193d6af0800000000000000
+      internalID: -401602023677138742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_11
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 816
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd2f54a98d3a8250800000000000000
+      internalID: 5947633919273676254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7663bd3f6a241d5e0800000000000000
+      internalID: -1886653484068293017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 612
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c7e5501ab86b9f0800000000000000
+      internalID: -453021188808082330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 612
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4f15057a16b83b0800000000000000
+      internalID: -5509202347922688808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 612
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90acfdd5f6428fd10800000000000000
+      internalID: 2159516082059069961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_16
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 612
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2d5cafff5498970800000000000000
+      internalID: 8757607916124885750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_17
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 612
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303b0137e9a7906e0800000000000000
+      internalID: -1870829349241834749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfc1d3de6d7e6ae0800000000000000
+      internalID: -1554166906442625102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 408
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6153fad17097c320800000000000000
+      internalID: 2578188130371981677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_20
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 408
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230191ca83ce21d80800000000000000
+      internalID: -8281297036631273422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 408
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e20da04456001b90800000000000000
+      internalID: -7273306439271251227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_22
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 408
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f5efe2ce0993b30800000000000000
+      internalID: 4267601465985359738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_23
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 408
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933800c8ba40547e0800000000000000
+      internalID: -1782012942720400583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7d41e6daa734420800000000000000
+      internalID: 2613067094099810259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_25
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 204
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e465acda8b86f0d0800000000000000
+      internalID: -3389368241026145056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 204
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433fb218cf5118f40800000000000000
+      internalID: 5728884375235064628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 204
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fa180f6e9a6b1f0800000000000000
+      internalID: -1029448655464976514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_28
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 204
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df184535c62ce6fc0800000000000000
+      internalID: -3499646089909992963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_29
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 204
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6643635c5db4a6980800000000000000
+      internalID: -8544933961473313690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skin 3 (Animation Taking damage)142x204_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d86f1d8f7b52390800000000000000
+      internalID: -7843660896693482226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: ed525f8b392d5044db3d07c7c4fc16eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5964470675430474585
+    second: Buff light 189x189_0
+  - first:
+      213: 4206226848168576549
+    second: Buff light 189x189_1
+  - first:
+      213: -7311140328460172732
+    second: Buff light 189x189_2
+  - first:
+      213: -8515373916475531290
+    second: Buff light 189x189_3
+  - first:
+      213: -4151099959073754535
+    second: Buff light 189x189_4
+  - first:
+      213: -3997620704440133942
+    second: Buff light 189x189_5
+  - first:
+      213: -4263554184828515098
+    second: Buff light 189x189_6
+  - first:
+      213: -5300620967150173564
+    second: Buff light 189x189_7
+  - first:
+      213: 1423672815216449467
+    second: Buff light 189x189_8
+  - first:
+      213: -83337566956074930
+    second: Buff light 189x189_9
+  - first:
+      213: -7155399222753955093
+    second: Buff light 189x189_10
+  - first:
+      213: 980283864195272205
+    second: Buff light 189x189_11
+  - first:
+      213: -759821168914841865
+    second: Buff light 189x189_12
+  - first:
+      213: 8414345262554834234
+    second: Buff light 189x189_13
+  - first:
+      213: 6871346136277690046
+    second: Buff light 189x189_14
+  - first:
+      213: 4508093937157301294
+    second: Buff light 189x189_15
+  - first:
+      213: 870052525287958055
+    second: Buff light 189x189_16
+  - first:
+      213: 133720849861303223
+    second: Buff light 189x189_17
+  - first:
+      213: 9080856452764536256
+    second: Buff light 189x189_18
+  - first:
+      213: -7262639306787392006
+    second: Buff light 189x189_19
+  - first:
+      213: 5014159047943621505
+    second: Buff light 189x189_20
+  - first:
+      213: 6350273310764296686
+    second: Buff light 189x189_21
+  - first:
+      213: -193562355296471002
+    second: Buff light 189x189_22
+  - first:
+      213: 5830851724998906669
+    second: Buff light 189x189_23
+  - first:
+      213: 1704978493714742465
+    second: Buff light 189x189_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buff light 189x189_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953844a6a7e06c250800000000000000
+      internalID: 5964470675430474585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 756
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5268cc968058f5a30800000000000000
+      internalID: 4206226848168576549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 756
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442491b7b9c998a90800000000000000
+      internalID: -7311140328460172732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 756
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef59d21a8053d980800000000000000
+      internalID: -8515373916475531290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_4
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 756
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9523548a4945466c0800000000000000
+      internalID: -4151099959073754535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6591d46299588c0800000000000000
+      internalID: -3997620704440133942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 567
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec8aa4ee00d4d4c0800000000000000
+      internalID: -4263554184828515098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 567
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482c60470596076b0800000000000000
+      internalID: -5300620967150173564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 567
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb75b5be1e6e1c310800000000000000
+      internalID: 1423672815216449467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_9
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 567
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e484325acece7def0800000000000000
+      internalID: -83337566956074930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2f4ad515ae2bc90800000000000000
+      internalID: -7155399222753955093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 378
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e08601bfaaa9d00800000000000000
+      internalID: 980283864195272205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_12
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 378
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe320e2ca29475f0800000000000000
+      internalID: -759821168914841865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_13
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 378
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3562186f62c5c470800000000000000
+      internalID: 8414345262554834234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_14
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 378
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6a59da7eceb5f50800000000000000
+      internalID: 6871346136277690046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e246a5a0d87ff8e30800000000000000
+      internalID: 4508093937157301294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 189
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72668b9792c031c00800000000000000
+      internalID: 870052525287958055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 189
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbdb0b87621bd100800000000000000
+      internalID: 133720849861303223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_18
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 189
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd0853d4dea50e70800000000000000
+      internalID: 9080856452764536256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 189
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5f523970ce53b90800000000000000
+      internalID: -7262639306787392006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b8df3861fd59540800000000000000
+      internalID: 5014159047943621505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9efb25ee3b02850800000000000000
+      internalID: 6350273310764296686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_22
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6287aaa3014505df0800000000000000
+      internalID: -193562355296471002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_23
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23988e20c85be050800000000000000
+      internalID: 5830851724998906669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff light 189x189_24
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc3c8b18ec49a710800000000000000
+      internalID: 1704978493714742465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
